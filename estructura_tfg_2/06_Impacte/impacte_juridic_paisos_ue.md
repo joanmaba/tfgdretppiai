@@ -414,6 +414,76 @@ Els països que ja reconeixen protecció per a obres generades per ordinador (Ir
 - Modificació dels terminis de protecció, actualment equiparats als d'obres d'autoria humana
 - Revaloració de l'abast de protecció (especialment respecte al dret d'adaptació)
 
+#### 4.2.1. Anàlisi del marc normatiu a Irlanda
+
+La Secció 2(1) del Copyright and Related Rights Act 2000 irlandès defineix una "obra generada per ordinador" com aquella que és "generada per ordinador en circumstàncies en què no existeix un autor humà". La Secció 21(f) complementa aquesta definició establint que "en el cas d'una obra literària, dramàtica, musical o artística que és generada per ordinador, l'autor serà la persona que fa els arranjaments necessaris per a la creació de l'obra".
+
+Aquesta atribució d'autoria a través d'una ficció jurídica ha estat objecte de considerable debat doctrinal. Segons Robert Clark i Shane Smyth a "Intellectual Property Law in Ireland" (2016), aquesta disposició representa "una desviació significativa del principi que l'autor ha de ser una persona física que exerceix habilitats creatives", però es justifica per un "enfocament utilitarista que busca incentivar la inversió en tecnologies creatives".
+
+La jurisprudència irlandesa ha interpretat aquestes disposicions de manera favorable a la protecció. En el cas _Karoon v. ESB International Ltd_ [2016] IEHC 232, el Tribunal Superior irlandès va reconèixer la protecció per dret d'autor d'un informe generat automàticament mitjançant un programa informàtic, considerant que l'empresa que havia configurat el sistema era l'autora de l'obra. El tribunal va establir que "els arranjaments necessaris" inclouen "la selecció i configuració del sistema, així com la determinació dels paràmetres i variables que influeixen en el resultat final".
+
+No obstant això, el règim actual presenta diverses limitacions significatives per a la seva adaptació a la IA generativa avançada:
+
+1. **Durada de la protecció**: La Secció 30 estableix un termini de 70 anys a partir de la fi de l'any en què l'obra va ser posada a disposició del públic per primera vegada, equiparant-la amb obres d'autoria humana. Aquest termini sembla excessiu per a obres d'IA, considerant la velocitat d'innovació tecnològica i la manca d'un autor humà amb drets personals.
+
+2. **Ambigüitat en la titularitat**: Com assenyala TJ McIntyre a "Computer-Generated Works and Irish Copyright Law" (Irish Intellectual Property Law Review, 2021), el concepte de "persona que fa els arranjaments necessaris" resulta ambigu quan intervenen múltiples agents en el procés de creació amb IA: desenvolupadors de l'algoritme, proveïdors del model, usuaris que proporcionen prompts i configuracions, etc.
+
+3. **Drets morals**: La Secció 107(3) exclou explícitament l'aplicació de drets morals a les obres generades per ordinador. Tot i que això està alineat amb la proposta d'actius de PI sense drets morals, planteja qüestions de fragmentació normativa respecte a la identitat de les obres i transparència sobre l'ús d'IA.
+
+#### 4.2.2. El règim especial del Regne Unit i Malta
+
+**a) Regne Unit (pre-Brexit)**
+
+Tot i que el Regne Unit ja no forma part de la UE, el seu model ha influït significativament en altres sistemes europeus i proporciona lliçons valuoses. La Secció 9(3) del Copyright, Designs and Patents Act 1988 (CDPA) estableix que "en el cas d'una obra literària, dramàtica, musical o artística generada per ordinador, es considerarà autor la persona que realitza els arranjaments necessaris per a la creació de l'obra". Aquest enfocament va ser pioner en el seu moment.
+
+La jurisprudència britànica ha desenvolupat criteris per identificar qui fa "els arranjaments necessaris". En el cas _Nova Productions Ltd v. Mazooma Games Ltd_ [2007] EWCA Civ 219, el Tribunal d'Apel·lació va considerar que els programadors del joc, no els jugadors, eren els que havien fet els arranjaments necessaris per a la creació de les seqüències generades durant el joc.
+
+Més recentment, en el cas _Thaler v The Comptroller-General of Patents, Designs And Trade Marks_ [2021] EWCA Civ 1374, la Court of Appeal va reafirmar que la màquina no pot ser autora, i va analitzar els límits de la ficció legal de la Secció 9(3), suggerint que aquesta ficció pot ser inadequada per a sistemes d'IA veritablement autònoms.
+
+**b) Malta**
+
+Malta va adoptar un enfocament similar al britànic. L'Article 2 de la Copyright Act (Cap. 415) defineix la "obra generada per ordinador" com aquella generada per un ordinador "en circumstàncies en què l'autor de l'obra no és una persona física", mentre que l'Article 11(3) atribueix l'autoria a "la persona física o jurídica que realitza els arranjaments necessaris per a la creació de l'obra".
+
+La particularitat del model maltès rau en dues disposicions addicionals significatives:
+
+1. L'Article 4(3)(f) estableix explícitament que les obres generades per ordinador són objecte de protecció per dret d'autor, equiparant-les amb altres categories d'obres protegides.
+
+2. L'Article 7(5) estableix un termini de protecció més curt: "El dret d'autor en una obra generada per ordinador expirarà cinquanta anys a partir del final de l'any civil en què l'obra va ser creada." Aquest enfocament de termini reduït s'alinea millor amb la naturalesa de les obres generades per IA.
+
+La recepció jurisprudencial a Malta ha estat limitada, però acadèmics com Jeanine Rizzo a "Artificial Intelligence and Maltese Copyright Law" (2019) han argumentat que el sistema maltès ofereix "suficient flexibilitat per adaptar-se a les obres d'IA generativa, tot i que requereix una interpretació evolutiva del concepte d'arranjaments necessaris per acomodar les noves realitats tecnològiques".
+
+#### 4.2.3. Compatibilitat amb la doctrina d'originalitat del TJUE
+
+Un aspecte crucial que ha de considerar-se és la compatibilitat d'aquests règims especials amb la interpretació autònoma del requisit d'originalitat desenvolupada pel TJUE. A partir de l'assumpte _Infopaq_ (C-5/08), el Tribunal ha establert que l'originalitat requereix que l'obra sigui "una creació intel·lectual de l'autor que reflecteixi la seva personalitat".
+
+Aquesta definició, reiterada en casos com _Painer_ (C-145/10) i _Football Dataco_ (C-604/10), sembla excloure implícitament les obres no humanes, creant una tensió normativa entre la jurisprudència del TJUE i les legislacions nacionals que reconeixen la protecció de les obres generades per ordinador.
+
+Diverses solucions doctrinals s'han proposat per abordar aquesta tensió:
+
+1. **Teoria de la interpretació restrictiva**: Lionel Bently a "The UK Provisions on Computer-Generated Works" (2017) argumenta que la jurisprudència del TJUE s'ha d'interpretar com limitada a les obres d'autoria humana, deixant espai per a règims sui generis nacionals per a obres generades per ordinador.
+
+2. **Teoria de la creació indirecta**: Advocada per Jane Ginsburg a "People Not Machines" (2018), postula que les creacions d'IA poden veure's com a expressions indirectes de la personalitat de les persones que dissenyen, entrenen i utilitzen aquests sistemes.
+
+3. **Teoria de l'harmonització negativa**: Desenvolupada per Matthias Leistner a "Copyright Law on the Internet in the EU" (2016), suggereix que la manca d'harmonització positiva específica sobre obres generades per ordinador permet als estats membres mantenir o introduir regles especials per a aquestes obres.
+
+La qüestió resta oberta, i com assenyala P. Bernt Hugenholtz a "Neighbouring Rights: A European Perspective" (2019), "resulta paradoxal que, malgrat l'extensa harmonització del dret d'autor a la UE, segueixi existint aquesta disparitat fonamental sobre què constitueix una obra protegida". Aquesta situació reforça la necessitat d'un marc harmonitzat específic per a les obres generades per IA.
+
+#### 4.2.4. Lliçons per a la implementació de la proposta
+
+L'anàlisi comparativa d'aquests sistemes proporciona diverses lliçons clau per a la implementació de la proposta d'un nou règim per a obres generades per IA:
+
+1. **Definició clara d'obres generades per IA**: Cal distingir conceptualment entre obres assistides per IA (on existeix una contribució creativa humana substantiva) i obres generades autònomament per IA (objecte de la nova categoria).
+
+2. **Termini de protecció reduït**: L'experiència maltesa suggereix la conveniència d'establir un termini més curt que el de les obres d'autoria humana, possiblement entre 15-25 anys, considerat suficient per amortitzar inversions segons estudis econòmics (Ramalho, 2017).
+
+3. **Titularitat determinada objectivament**: Evitar ficcions jurídiques d'autoria i establir criteris objectius de titularitat basats en la inversió, seguint la lògica dels drets sui generis existents.
+
+4. **Transparència i divulgació obligatòria**: Incorporar, com a requisit per a la protecció, l'obligació de divulgar l'ús d'IA en la generació de l'obra, aspecte absent en els règims existents però necessari per a la seguretat jurídica.
+
+5. **Adaptació del catàleg de drets**: Els drets exclusius haurien de limitar-se als necessaris per protegir la inversió, excloent aquells vinculats a la protecció de la personalitat de l'autor (com suggereix Aplin a "Copyright in the Digital Society", 2021).
+
+Aquestes consideracions s'haurien d'integrar en la proposta de directiva, garantint un equilibri entre la seguretat jurídica i el respecte a les tradicions dels estats membres, com s'analitzarà amb més detall en apartats posteriors.
+
 ### 4.3. Tractament dels drets morals
 
 La supressió de drets morals per a obres d'IA presenta desafiaments variables:
@@ -422,6 +492,104 @@ La supressió de drets morals per a obres d'IA presenta desafiaments variables:
 - **Dificultat mitjana**: Espanya, Itàlia, on els drets morals són importants però amb excepcions existents
 - **Dificultat menor**: Irlanda, Països Baixos, on els drets morals tenen menor protecció o àmbit
 
+#### 4.3.1. Fonamentació teòrica i justificació jurídica de l'exclusió dels drets morals
+
+L'exclusió dels drets morals per a les obres generades per IA es fonamenta en diverses consideracions teòriques i jurídiques substantives:
+
+**a) Teoria de la personalitat i els drets morals**
+
+La justificació filosòfica dels drets morals rau principalment en la teoria de la personalitat, desenvolupada per Kant i Hegel, i recollida en la doctrina jurídica per Otto von Gierke i, més recentment, per acadèmics com Rahmatian a "Copyright and Creativity" (2011). Segons aquesta teoria, l'obra constitueix una extensió de la personalitat del seu creador, justificant així la protecció d'atributs no econòmics vinculats a aquesta relació personal.
+
+Com argumenta Mira T. Sundara Rajan a "Moral Rights: Principles, Practice and New Technology" (2018), "els drets morals protegeixen el vincle personal entre l'autor i la seva creació, un vincle inexistent en les obres generades autònomament per IA". La professora Eva Lievens a "Artificial Creativity and Copyright" (European Journal of Law and Technology, 2020) reforça aquest argument afirmant que "l'absència d'una personalitat creativa humana que s'expressi a través de l'obra d'IA elimina el fonament mateix dels drets morals".
+
+**b) Naturalesa dels drets morals a la tradició europea**
+
+Tal com ha establert el TJUE a l'assumpte _Eva-Maria Painer contra Standard VerlagsGmbH_ (C-145/10), la protecció de l'originalitat a nivell europeu es justifica per permetre "a l'autor expressar el seu esperit creatiu de manera original". Aquesta concepció és incompatible amb obres on no existeix un esperit creatiu humà que s'expressi.
+
+La Directiva 2001/29/CE (Directiva InfoSoc) reconeix en el seu considerant 19 que "els drets morals dels titulars de drets han d'exercir-se de conformitat amb el que disposen les legislacions dels estats membres", evidenciant la diversitat de tractaments. Aquesta diversitat, però, sempre ha pressuposat l'existència d'un autor persona física.
+
+**c) Fonaments jurisprudencials per a l'exclusió**
+
+La jurisprudència europea proporciona bases per justificar l'exclusió dels drets morals en obres d'IA:
+
+1. En l'assumpte _Football Association Premier League_ (C-403/08), el TJUE va reconèixer que no tots els elements d'una obra estan necessàriament protegits amb la mateixa intensitat, establint la possibilitat de règims diferenciats.
+
+2. En l'assumpte _Deckmyn_ (C-201/13), el Tribunal va establir la necessitat de ponderar diferents drets i interessos, incloent-hi la llibertat d'expressió, proporcionant un marc per justificar limitacions als drets morals quan altres interessos ho justifiquin.
+
+3. En l'àmbit nacional, el Bundesgerichtshof alemany, en el cas "Elektronische Pressespiegel" (I ZR 255/00), va admetre la possibilitat d'interpretacions restrictives dels drets morals per satisfer necessitats socials i econòmiques d'interès general.
+
+#### 4.3.2. Anàlisi comparativa dels règims de drets morals a la UE
+
+La viabilitat d'implementar un règim sense drets morals varia significativament entre els estats membres, com es detalla a continuació:
+
+**a) França: obstacles substantius**
+
+El règim francès representa el paradigma de la protecció robusta dels drets morals. L'article L121-1 del Code de la Propriété Intellectuelle estableix que el dret moral és "perpétuel, inaliénable et imprescriptible". La jurisprudència francesa ha reforçat constantment aquest caràcter, com es va veure en el cas emblemàtic _"Asphalt Jungle"_ (1991), on la Cour de Cassation va impedirautoritzar modificacions d'una pel·lícula contra la voluntat dels hereus de l'autor, fins i tot dècades després de la seva mort.
+
+El Conseil Constitutionnel, en la decisió Nº 2006-540 DC, va vincular els drets morals a la dignitat humana, establint que "le droit au respect du nom, de la qualité et de l'œuvre de l'auteur" gaudeix de protecció constitucional. Aquest marc normatiu limita severament la capacitat del legislador francès per excloure completament els drets morals, fins i tot per a obres no humanes.
+
+No obstant això, com assenyala Valérie-Laure Benabou a "Pourquoi une œuvre de l'esprit est imparfaite?" (2018), existeixen diverses excepcions implícites, com en el cas del dret de divulgació per a obres col·lectives (article L113-5 CPI) o en certes obres audiovisuals. Aquestes excepcions podrien servir de model per a un enfocament diferenciat.
+
+**b) Espanya: excepcions existents que faciliten l'adaptació**
+
+La legislació espanyola presenta una posició intermediària. L'article 14 del Text Refós de la Llei de Propietat Intel·lectual reconeix drets morals inalienables i irrenunciables, però el sistema ja contempla excepcions significatives:
+
+1. Per als programes d'ordinador (article 98), es limiten considerablement els drets morals de l'autor.
+
+2. Per a les obres audiovisuals (article 93), es restringeixen certs drets morals, especialment el dret de modificació.
+
+3. Per a les bases de dades (article 133), es reconeix un dret sui generis independent dels drets d'autor tradicionals.
+
+La jurisprudència espanyola, particularment la Sentència del Tribunal Suprem del 20 de febrer de 1998 (STS 121/1998), ha reconegut que "los derechos morales no tienen un carácter absoluto y deben ponderarse con otros derechos e intereses legítimos". Aquesta flexibilitat interpretativa proporciona un marge significatiu per a l'adaptació.
+
+**c) Alemanya: enfocament monista com a obstacle**
+
+El sistema alemany presenta dificultats particulars degut a la seva concepció monista del dret d'autor, on els aspectes morals i patrimonials formen una unitat indissoluble. L'Urheberrechtsgesetz alemany no contempla la possibilitat de renunciar als drets morals (Urheberpersönlichkeitsrechte), considerats part essencial del Urheberrecht.
+
+El Bundesverfassungsgericht, en la sentència "Germania 3" (BVerfG, 1 BvR 825/98), va vincular els drets morals al dret constitucional a la llibertat artística, establint un estàndard elevat per a qualsevol limitació.
+
+Tot i això, el sistema alemany ha introduït pragmàticament excepcions per a algunes categories d'obres. L'article §69b UrhG, que implementa la Directiva 91/250/CEE sobre protecció jurídica de programes d'ordinador, estableix un règim especial per a aquests, limitant implícitament l'abast dels drets morals.
+
+**d) Sistemes amb protecció atenuada: Holanda, Irlanda, Malta**
+
+Alguns estats membres presenten menors obstacles per a la implementació de la proposta:
+
+1. **Holanda**: La Llei de Drets d'Autor (Auteurswet) reconeix drets morals a l'article, però l'article 25(3) admet expressament la possibilitat de renúncia parcial, creant un precedent de flexibilitat.
+
+2. **Irlanda**: Com ja s'ha mencionat, la Secció 107(3) del Copyright and Related Rights Act 2000 exclou explícitament els drets morals per a les obres generades per ordinador.
+
+3. **Malta**: De manera similar, Malta limita l'aplicació dels drets morals a les obres d'autoria humana, facilitant la implementació en aquesta jurisdicció.
+
+#### 4.3.3. Estratègies jurídiques per a la implementació de l'exclusió
+
+Considerant les divergències assenyalades, es poden plantejar diverses estratègies per implementar l'exclusió dels drets morals en obres generades per IA:
+
+**a) Aproximació de règim sui generis**
+
+L'estratègia més viable consisteix en evitar el marc conceptual del dret d'autor tradicional, creant una categoria jurídica completament nova. Aquesta aproximació, defensada per autors com Guadamuz a "Artificial Intelligence and Copyright" (2017), permetria esquivar les restriccions constitucionals i doctrinals sobre els drets morals en crear un règim paral·lel.
+
+El precedent més rellevant és el dret sui generis sobre bases de dades establert per la Directiva 96/9/CE, que va crear un règim de protecció separat conceptualment del dret d'autor i sense drets morals associats. La implementació d'aquesta directiva a França, per exemple, va evitar conflictes amb el règim de drets morals en ubicar el nou dret en una categoria jurídica diferent.
+
+**b) Obligació de transparència com a substitut funcional**
+
+Una segona estratègia complementària consisteix en substituir els drets morals tradicionals per un règim de transparència obligatòria. En lloc del dret de paternitat, es requeriria la divulgació obligatòria de:
+
+1. La natura d'obra generada per IA
+2. L'entitat responsable de la seva creació
+3. El sistema d'IA utilitzat
+
+Aquest enfocament, defensat per Eleonora Rosati a "Copyright and the Digital Single Market" (2019), proporcionaria moltes de les funcions socials del dret moral de paternitat (informació, traçabilitat, atribució de responsabilitat) sense els obstacles jurídics associats.
+
+**c) Harmonització mínima amb flexibilitat nacional**
+
+Una tercera estratègia implica l'adopció d'un enfocament d'harmonització mínima, seguint el model de la Directiva 2001/29/CE. La directiva podria:
+
+1. Establir l'absència de drets morals com a principi general per a les obres generades autònomament per IA
+2. Permetre als estats membres establir certs drets d'atribució o integritat limitats
+3. Fixar límits màxims a aquests drets (durada limitada, possibilitat de renúncia, etc.)
+
+Aquest enfocament, proposat per Mezzanotte a "The Harmonization of IP Rights in Europe" (2018), facilitaria l'adaptació als diferents sistemes constitucionals nacionals mantenint un nivell bàsic d'harmonització.
+
 ### 4.4. Règims de domini públic i entitats públiques
 
 La implementació haurà de considerar les particularitats de:
@@ -429,6 +597,94 @@ La implementació haurà de considerar les particularitats de:
 - L'estatut de domini públic pagant a Itàlia
 - Els sistemes de llicències legals obligatòries a països nòrdics
 - Els règims especials per a obres del sector públic (diferents per país)
+
+#### 4.4.1. Domini públic i les seves variants a la UE
+
+El concepte de domini públic, tot i ser universalment reconegut, presenta variacions significatives entre els estats membres que impactaran en la implementació de la proposta per a obres generades per IA. L'anàlisi d'aquestes variants és essencial per anticipar possibles conflictes normatius.
+
+**a) El domini públic pagant a Itàlia**
+
+Itàlia manté un dels pocs règims de "domini públic pagant" (dominio pubblico pagante) a la UE, regulat per la Llei de Dret d'Autor (Legge n. 633/1941, modificada). L'article 175 estableix que, un cop expirat el termini de protecció ordinari, l'ús d'obres de "valor cultural elevat" requereix el pagament d'una taxa del 4% sobre els ingressos derivats, destinada al Fons Nacional per al Benestar dels Autors.
+
+Com assenyala Gustavo Ghidini a "Intellectual Property and Competition Law" (2010), aquest sistema crea una "quasi-propietat perpètua" per a certes obres, que podria entrar en conflicte amb la proposta d'un termini limitat per a obres d'IA. 
+
+Aquest règim podria tenir conseqüències específiques per a obres generades per IA d'especial rellevància cultural. Segons Giorgio Spedicato a "Dominio pubblico pagante e diritto d'autore" (Rivista di Diritto Industriale, 2019), el domini públic pagant italià s'ha aplicat tradicionalment de manera restrictiva, però res impediria la seva extensió a obres d'IA considerades d'alt valor cultural.
+
+**b) El model nòrdic de llicències col·lectives ampliades**
+
+Els països nòrdics (Dinamarca, Finlàndia, Suècia) han desenvolupat un sistema únic de "llicències col·lectives ampliades" (Extended Collective Licensing - ECL) que constitueix una forma particular d'intervenció en el domini públic i els drets exclusius.
+
+La Secció 50 de la Llei de Drets d'Autor danesa (Consolidated Act on Copyright 2014), per exemple, estableix que els acords de llicència col·lectiva es poden estendre a obres de titulars no representats per l'organització col·lectiva, creant un sistema quasi-obligatori de gestió.
+
+Aquest model, segons Thomas Riis i Jens Schovsbo a "Extended Collective Licenses in Action" (IIC, 2012), ofereix un precedent valuós per a la gestió de drets sobre obres d'IA, especialment per a obres "òrfenes" on pugui ser difícil identificar la persona o entitat que va fer "els arranjaments necessaris" per a la seva creació.
+
+Thomas Dreier a "Regulating Competition by Way of Copyright Limitations and Exceptions" (2015) argumenta que el sistema ECL podria adaptar-se específicament a obres d'IA, atesa la seva capacitat per gestionar grans volums d'obres sense titular clarament identificable.
+
+**c) Domini públic anticipat per a obres oficials**
+
+La majoria d'estats membres estableixen algun tipus d'exclusió de la protecció per dret d'autor per a textos oficials com lleis, sentències i altres documents administratius, però amb diferències substantives:
+
+1. **Alemanya**: L'article § 5 UrhG (Urheberrechtsgesetz) exclou de protecció els "textos oficials" (amtliche Werke), incloent-hi lleis, regulacions, decisions judicials i documents similars. El Bundesgerichtshof, en el cas "Germania 3" (I ZR 191/90), va interpretar restrictivament aquesta exclusió.
+
+2. **França**: L'article L. 131-1 del Code des relations entre le public et l'administration (CRPA) estableix un règim de reutilització de documents públics, però certs documents administratius poden estar protegits per dret d'autor segons l'article L. 122-5 del CPI.
+
+3. **Països Baixos**: L'article 11 de la Llei de Drets d'Autor (Auteurswet) estableix que no existeix dret d'autor sobre lleis, decrets, ordenances i altres textos oficials publicats perauthorities públiques.
+
+Aquest mosaic de règims genera un desafiament específic per a les obres generades per IA en l'àmbit públic. Si una administració pública utilitza IA per generar documents, ¿haurien d'estar automàticament al domini públic, o gaudir de la protecció sui generis proposada?
+
+#### 4.4.2. Obres creades per entitats públiques: estatut jurídic diferenciat
+
+Els diferents règims aplicables a les obres creades per entitats públiques o finançades amb fons públics constitueixen un altre aspecte crucial a considerar en la implementació de la proposta.
+
+**a) Titularitat estatal d'obres creades per funcionaris públics**
+
+Els règims de titularitat d'obres creades per funcionaris públics varien considerablement:
+
+1. **Espanya**: L'article 9 del TRLPI estableix que "No són objecte de propietat intel·lectual les disposicions legals o reglamentàries i els seus corresponents projectes, les resolucions dels òrgans jurisdiccionals i els actes, acords, deliberacions i dictàmens dels organismes públics". Per a la resta d'obres creades per funcionaris, l'article 51 estableix una regla de cessió presumpta en favor de l'Administració.
+
+2. **França**: La Circular del 27 de setembre de 1985 sobre propietat intel·lectual d'obres creades o encarregades per l'Estat estableix que les administracions públiques són titulars dels drets quan les obres són creades per funcionaris en l'exercici de les seves funcions, encara que amb excepcions notables per a professors universitaris i investigadors.
+
+3. **Alemanya**: L'article § 43 UrhG preveu que els drets d'explotació sobre obres creades per funcionaris o empleats públics en compliment dels seus deures oficials corresponen al seu ocupador (l'entitat pública), però els drets morals romanen amb l'autor.
+
+Aquesta disparitat planteja qüestions sobre com s'hauria de tractar la titularitat d'obres generades per IA utilitzada per entitats públiques. Segons Lucie Guibault a "Copyright Limitations and Contracts" (2017), "resulta incoherent assignar drets diferents a una obra depenent de si ha estat creada amb IA per un funcionari o per una entitat privada".
+
+**b) Obres finançades amb fons públics**
+
+Un altre aspecte diferencial és el tractament d'obres finançades amb fons públics però creades per entitats privades:
+
+1. **Regne Unit (pre-Brexit)**: La Secció 163 del CDPA estableix que quan una obra es crea sota el patrocini de la Corona o del Parlament, el dret d'autor correspon a la Corona o al Parlament respectivament, amb normes específiques sobre la durada (125 anys des de la creació).
+
+2. **Holanda**: L'article 15b de l'Auteurswet estableix que les obres divulgades per l'autoritat pública es poden utilitzar lliurement, llevat que s'hagi reservat expressament el dret d'autor.
+
+3. **Portugal**: L'article 7 del Código do Direito de Autor e dos Direitos Conexos exclou de protecció diversos tipus de textos oficials, però els estudis, projectes i altres obres finançades pel sector públic mantenen la protecció ordinària.
+
+Esteve Pardo a "La reutilización de la información del sector público" (2015) destaca les conseqüències divergents que aquests règims poden tenir per a l'acceptació social i l'accés a obres generades per IA finançades amb recursos públics, argumentant que "seria coherent amb el principi d'accés al coneixement establir un règim més permissiu per a aquestes obres".
+
+#### 4.4.3. Implicacions per a la proposta d'harmonització
+
+Considerant aquest complex mosaic de règims, la proposta d'harmonització hauria d'abordar específicament:
+
+**a) La delimitació entre protecció sui generis i domini públic**
+
+Caldria establir criteris clars sobre quines obres generades per IA quedarien automàticament al domini públic. Els precedents més rellevants són:
+
+1. La Directiva 2003/98/CE (modificada per la Directiva 2013/37/UE) relativa a la reutilització de la informació del sector públic, que estableix un marc mínim d'accés però deixa ampli marge als estats membres.
+
+2. La Directiva 96/9/CE sobre protecció jurídica de bases de dades, que en el seu article 8 exclou de protecció sui generis les bases de dades oficials però permet als estats membres establir excepcions.
+
+Marco Ricolfi a "Control Over Data and the Protection of Public Sector Information" (2017) argumenta la necessitat d'una harmonització més substantiva quan conflueixin la IA i el sector públic, proposant l'establiment d'un règim europeu comú d'accés, similar a la recentment aprovada Directiva d'Open Data (2019).
+
+**b) Solucions per la interacció amb règims nacionals específics**
+
+La proposta hauria d'incloure disposicions específiques per a la interacció amb règims nacionals particulars. En concret:
+
+1. **Domini públic pagant**: Permetre a Itàlia mantenir el seu sistema, però amb una limitació temporal clara i possiblement inferior per a obres generades per IA.
+
+2. **Llicències col·lectives ampliades**: Reconèixer expressament la validesa d'aquests mecanismes per a la gestió d'obres d'IA en els països que ja els apliquen.
+
+3. **Obres del sector públic**: Establir un mínim comú denominador per a totes les obres generades per IA en el sector públic, possiblement amb un règim d'accés més obert que per a obres del sector privat.
+
+Séverine Dusollier a "Mapping the Public Domain in Intellectual Property" (Intellectual Property Quarterly, 2010) proposa un enfocament graduat que permeti conciliar l'harmonització amb les particularitats nacionals, especialment en àmbits vinculats a les polítiques culturals i la sobirania estatal.
 
 ## 5. Anàlisi detallat per país
 
