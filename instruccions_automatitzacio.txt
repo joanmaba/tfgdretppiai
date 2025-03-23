@@ -1,0 +1,2 @@
+Per automatitzar completament les actualitzacions, executa aquesta comanda: 
+launchctl load -w ~/Library/LaunchAgents/auto_update_cron.plist
