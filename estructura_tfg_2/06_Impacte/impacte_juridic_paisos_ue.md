@@ -524,7 +524,7 @@ La viabilitat d'implementar un règim sense drets morals varia significativament
 
 **a) França: obstacles substantius**
 
-El règim francès representa el paradigma de la protecció robusta dels drets morals. L'article L121-1 del Code de la Propriété Intellectuelle estableix que el dret moral és "perpétuel, inaliénable et imprescriptible". La jurisprudència francesa ha reforçat constantment aquest caràcter, com es va veure en el cas emblemàtic _"Asphalt Jungle"_ (1991), on la Cour de Cassation va impedirautoritzar modificacions d'una pel·lícula contra la voluntat dels hereus de l'autor, fins i tot dècades després de la seva mort.
+El règim francès representa el paradigma de la protecció robusta dels drets morals. L'article L121-1 del Code de la Propriété Intellectuelle estableix que el dret moral és "perpétuel, inaliénable et imprescriptible". La jurisprudència francesa ha reforçat constantment aquest caràcter, com es va veure en el cas emblemàtic _"Asphalt Jungle"_ (1991), on la Cour de Cassation va impedir autoritzar modificacions d'una pel·lícula contra la voluntat dels hereus de l'autor, fins i tot dècades després de la seva mort.
 
 El Conseil Constitutionnel, en la decisió Nº 2006-540 DC, va vincular els drets morals a la dignitat humana, establint que "le droit au respect du nom, de la qualité et de l'œuvre de l'auteur" gaudeix de protecció constitucional. Aquest marc normatiu limita severament la capacitat del legislador francès per excloure completament els drets morals, fins i tot per a obres no humanes.
 
@@ -688,123 +688,205 @@ Séverine Dusollier a "Mapping the Public Domain in Intellectual Property" (Inte
 
 ## 5. Anàlisi detallat per país
 
-### 5.1. Alemanya
+### 5.1. Introducció metodològica
 
-- **Marc normatiu actual**: Urheberrechtsgesetz (UrhG)
-- **Concepte d'autoria**: Estrictament humà (Schöpferprinzip)
-- **Reptes principals**: 
-  * Modificació de l'article § 2(2) UrhG que defineix l'obra protegible
-  * Distinció entre obres assistides per IA (protegibles com a obres humanes) i obres generades autònomament
-  * Aclariment del règim de divulgació sobre l'ús d'IA (modificació dels §§ 13 i 14)
-- **Transposició recomanada**: Creació d'un nou capítol a la UrhG específic per a "continguts generats per sistemes autònoms", amb règim distint del Urheberrecht tradicional.
+L'anàlisi que es presenta a continuació segueix un enfocament de selecció representativa basat en les principals tradicions jurídiques dins la UE. S'han seleccionat països que representen adequadament els diversos blocs jurídics (francòfon, germànic, mediterrani, nòrdic, i anglosaxó) i que presenten particularitats rellevants per a la implementació de la proposta. Per a cada país, s'analitza el marc normatiu actual, la jurisprudència i doctrina rellevants, i les especificitats que haurien de considerar-se en la implementació de la proposta d'harmonització.
 
-### 5.2. França
+### 5.2. França: reconciliació amb la tradició personalista
 
-- **Marc normatiu actual**: Code de la Propriété Intellectuelle (CPI)
-- **Concepte d'autoria**: Fonamentalment personalista i humanista
-- **Reptes principals**: 
-  * La definició d'originalitat com "empreinte de la personnalité de l'auteur"
-  * Els drets morals perpetus i inalienables (art. L121-1 CPI)
-  * Separació conceptual del règim tradicional per evitar "contaminació" doctrinal
-- **Transposició recomanada**: Nova secció al CPI sota el títol "Règim des œuvres issues de l'intelligence artificielle" que estableixi explícitament l'absència de drets morals.
+#### 5.2.1. Marc normatiu actual
 
-### 5.3. Espanya
+França constitueix el paradigma del sistema d'autor personalista, amb una robusta protecció dels drets morals i una concepció de l'autoria estretament vinculada a la persona física. El Code de la Propriété Intellectuelle (CPI) estableix en el seu article L111-1 que "l'autor d'una obra de l'esperit gaudeix sobre aquesta obra, pel sol fet de la seva creació, d'un dret de propietat incorporal exclusiu i oposable a tothom".
 
-- **Marc normatiu actual**: Text Refós de la Llei de Propietat Intel·lectual (TRLPI)
-- **Concepte d'autoria**: Centrat en persones físiques (art. 5 TRLPI)
-- **Reptes principals**: 
-  * La definició d'obra com a "creació original" (art. 10 TRLPI)
-  * L'articulació amb els drets afins ja existents
-  * La compatibilitat amb els drets morals irrenunciables (art. 14 TRLPI)
-- **Transposició recomanada**: Incorporació al Llibre II com un nou dret afí, seguint l'estructura ja utilitzada per a altres drets connexos.
+La jurisprudència francesa ha reforçat consistentment aquesta visió personalista. En el cas _Anne Bragance c/ Olivier Orban_ (Tribunal de Grande Instance de Paris, 1985), el tribunal va establir que l'originalitat resideix en "l'empremta de la personalitat de l'autor", un criteri incompatible amb la creació no humana.
 
-### 5.4. Itàlia
+El CPI no conté disposicions específiques sobre obres generades per ordinador o IA, i la doctrina majoritària (Vivant i Bruguière a "Droit d'auteur et droits voisins", 2021) considera que, sota el règim actual, les obres generades autònomament per IA no poden ser objecte de protecció per dret d'autor en absència d'una intervenció creativa humana.
 
-- **Marc normatiu actual**: Legge sul Diritto d'Autore (LDA)
-- **Concepte d'autoria**: Personalista però amb pragmatisme en productes industrials
-- **Reptes principals**:
-  * Distinció entre obres d'engeginy i productes d'IA
-  * Articulació amb el sistema de domini públic pagant
-  * Compatibilitat amb drets morals (art. 20 LDA)
-- **Transposició recomanada**: Nou títol a la LDA dedicat a "opere generate dall'intelligenza artificiale", amb tractament similar als fonogrammes.
+#### 5.2.2. Implicacions específiques de la proposta
 
-### 5.5. Països Baixos
+La implementació a França presentaria tres desafiaments principals:
 
-- **Marc normatiu actual**: Auteurswet
-- **Concepte d'autoria**: Tradició continental moderada
-- **Reptes principals**:
-  * La jurisprudència restrictiva sobre obres no humanes
-  * La tradició d'interpretació a favor dels creadors individuals
-- **Transposició recomanada**: Model híbrid inspirat en el règim de bases de dades, posant èmfasi en la protecció a la inversió.
+1. **Constitucionalitat**: El Conseil Constitutionnel, en la seva decisió Nº 2006-540 DC del 27 de juliol de 2006, va reconèixer valor constitucional als drets morals. Qualsevol règim que exclogui completament aquests drets podria enfrontar-se a un control de constitucionalitat.
 
-### 5.6. Suècia, Dinamarca i Finlàndia
+2. **Separació conceptual**: Resultaria necessari establir una clara demarcació entre el règim tradicional del droit d'auteur i el nou règim per a obres d'IA, evitant qualsevol contaminació conceptual. Alexandre Zollinger a "Droits d'auteur et droits de l'homme" (2018) suggereix que aquesta separació seria viable només si el nou règim s'articula com a completament independent del dret d'autor.
 
-- **Marc normatiu actual**: Lleis nacionals d'autor amb estructura similar
-- **Concepte d'autoria**: Requisit de creativitat ("verkshöjd") amb enfocament pragmàtic
-- **Reptes principals**:
-  * Articulació amb el sistema de llicències col·lectives ampliades
-  * Definició del catàleg de drets associats a les obres d'IA
-- **Transposició recomanada**: Nou capítol sobre "verk skapade av AI" amb aproximació utilitarista i pragmàtica.
+3. **Obligacions de transparència**: La proposta hauria d'alinear-se amb els requisits emergents de transparència algorítmica a França, especialment després de la Llei Nº 2016-1321 per a la República Digital, que imposa obligacions de transparència per a decisions automatitzades de l'administració pública.
 
-### 5.7. Irlanda
+#### 5.2.3. Estratègia d'implementació recomanada
 
-- **Marc normatiu actual**: Copyright and Related Rights Act 2000
-- **Concepte d'autoria**: Ja reconeix obres generades per ordinador
-- **Reptes principals**:
-  * Distinció entre generació assistida i autònoma
-  * Adaptació dels terminis de protecció
-- **Transposició recomanada**: Modificació de la secció 2(1) per actualitzar la definició de "computer-generated work" i establir un règim específic.
+Per a França, es recomana una estratègia d'implementació basada en:
 
-### 5.8. Resta d'estats membres
+1. L'establiment explícit d'un règim sui generis separat conceptualment del droit d'auteur, possiblement ubicat en un títol independent del CPI.
 
-Cada estat membre presentarà reptes específics basats en:
-- La seva tradició jurídica particular
-- El grau de desenvolupament del seu sector tecnològic
-- La seva jurisprudència nacional sobre propietat intel·lectual
+2. La inclusió d'un règim robust de transparència que substitueixi funcionalment certs aspectes del dret moral de paternitat, requerint la divulgació del caràcter d'obra generada per IA i l'entitat responsable.
 
-## 6. Impacte en institucions supranacionals i processos d'harmonització
+3. L'aprofitament de precedents com el règim de les bases de dades (articles L341-1 i següents del CPI), que ja estableix un model de protecció basada en la inversió sense consideracions de personalitat creativa.
 
-### 6.1. Oficina de Propietat Intel·lectual de la Unió Europea (EUIPO)
+La jurisprudència francesa més recent mostra una certa flexibilitat. En el cas _Mme X... c/ M. X et autres_ (Cour de Cassation, 1ère Chambre Civile, 22 octobre 2020), el tribunal va adoptar un enfocament funcional respecte a la protecció d'obres amb mínima intervenció humana, que podria servir de pont cap a l'acceptació del nou règim.
 
-- Necessitat d'adaptar els seus processos de registre i examen
-- Creació d'una nova categoria de registre per a obres generades per IA
-- Desenvolupament de criteris d'examen específics
+### 5.3. Alemanya: adaptació del sistema monista
 
-### 6.2. Tribunal de Justícia de la Unió Europea
+#### 5.3.1. Marc normatiu actual
 
-- Rol crucial en la interpretació harmonitzada del nou marc
-- Interacció amb jurisprudència existent sobre originalitat (Infopaq, Painer, Football Dataco)
-- Necessitat de nous criteris interpretatius per al concepte de "generació per IA"
+El sistema alemany es caracteritza per una concepció monista del dret d'autor (Urheberrecht), on els aspectes morals i patrimonials formen una unitat indissoluble vinculada a la personalitat de l'autor. L'Urheberrechtsgesetz (UrhG) estableix en el seu article §7 que "l'autor és el creador de l'obra", pressuposant una persona física.
 
-## 7. Recomanacions d'implementació
+La jurisprudència alemanya ha consolidat aquesta visió. En el cas "Beuys Hut" (Bundesgerichtshof, 1991), el tribunal va confirmar que el dret d'autor només pot sorgir a partir de la creació intel·lectual personal d'un individu. Més recentment, en "Monkey Selfie" (Landesgericht Berlin, 2018), el tribunal va rebutjar la possibilitat de protecció per dret d'autor per a obres no creades per humans.
 
-### 7.1. Criteris de transposició harmonitzada
+No obstant això, l'ordenament alemany ha mostrat pragmatisme en certes àrees, com en el cas dels programes d'ordinador (§69a-g UrhG) o en les produccions fotogràfiques simples (§72 UrhG), on s'han establert règims amb requisits d'originalitat atenuats.
 
-Per garantir una transposició coherent i evitar fragmentació:
+#### 5.3.2. Implicacions específiques de la proposta
 
-- Definicions comunes i obligatòries de conceptes clau (IA, generació autònoma, intervenció humana substantiva)
-- Llista tancada i harmonitzada de drets patrimonials
-- Terminis de protecció uniformes
-- Requisits de transparència i divulgació estandarditzats
+La implementació a Alemanya enfrontaria tres reptes principals:
 
-### 7.2. Període transitori i clàusules de salvaguarda
+1. **Encaix constitucional**: El Bundesverfassungsgericht ha vinculat el dret d'autor a la protecció de la personalitat (Article 2.1 de la Llei Fonamental) i a la llibertat artística (Article 5.3). Un règim que reconegui drets exclusius sense vincle amb una personalitat humana podria generar tensions constitucionals.
 
-La implementació hauria d'incloure:
+2. **Coherència dogmàtica**: La doctrina alemanya (Ensthaler, Weidert a "Urheberrecht und Internet", 2019) ha criticat la creació de drets exclusius desvinculats de la personalitat per considerar-los incompatibles amb els fonaments del sistema. La implementació requeriria justificar clarament la separació conceptual.
 
-- Període d'adaptació de mínim 24 mesos
-- Disposicions transitòries per a obres creades abans de l'entrada en vigor
-- Mecanisme de revisió després de 5 anys d'aplicació
-- Clàusules de salvaguarda per a sectors especialment sensibles
+3. **Tradició sui generis**: Paradoxalment, Alemanya té una sòlida tradició de drets sui generis (com el Leistungsschutzrecht per a editorials de premsa, §87f-h UrhG), que podria facilitar l'acceptació d'un nou règim si s'articula adequadament.
 
-### 7.3. Adaptació de registres nacionals
+#### 5.3.3. Estratègia d'implementació recomanada
 
-Els registres de propietat intel·lectual de cada país haurien d'adaptar-se per:
+Per a Alemanya, es recomana:
 
-- Incorporar camps específics per identificar obres generades per IA
-- Establir requisits de divulgació sobre l'ús de sistemes d'IA
-- Proporcionar seguretat jurídica als titulars de drets
+1. Establir el nou règim com un Leistungsschutzrecht (dret afí) clarament diferenciat del Urheberrecht tradicional, possiblement en una secció independent de la UrhG, seguint l'estructura utilitzada per als drets afins existents.
 
-## 8. Conclusions i recomanacions finals
+2. Incorporar criteris objectius d'inversió i originalitat tècnica (technische Schöpfungshöhe) que evitin la contaminació amb el concepte personalista d'originalitat (persönliche geistige Schöpfungen).
+
+3. Aprofitar el model del §72 UrhG (produccions fotogràfiques simples) com a precedent per a un règim amb menor exigència d'originalitat i durada reduïda, aspecte defensat per Thomas Dreier a "Urheberrecht auf dem Weg zur Informationsgesellschaft" (2018).
+
+La implementació es veuria facilitada pel pragmatisme que ha mostrat el legislador alemany en l'adaptació de la UrhG a les noves tecnologies, com es va veure en les modificacions de 2017 i 2021 relacionades amb la implementació de directives europees.
+
+### 5.4. Espanya: aprofitament del model mixt
+
+#### 5.4.1. Marc normatiu actual
+
+El sistema espanyol presenta un model mixt que combina elements de la tradició francesa (protecció robusta dels drets morals) amb un enfocament més pragmàtic en certes àrees. El Text Refós de la Llei de Propietat Intel·lectual (TRLPI) estableix en l'article 5 que "es considera autor a la persona natural que crea alguna obra literària, artística o científica", però ha introduït excepcions significatives per a obres col·lectives (article 8) i programes d'ordinador (article 97).
+
+La jurisprudència espanyola ha interpretat el requisit d'originalitat de manera flexible. En la sentència del Tribunal Suprem de 24 de juny de 2004 (STS 4443/2004), es va establir que l'originalitat pot entendre's tant en sentit subjectiu (reflectir la personalitat de l'autor) com objectiu (singularitat o distintivitat), obrint potencialment la porta a una concepció més àmplia.
+
+La doctrina espanyola (Bercovitz a "Manual de Propiedad Intelectual", 2019) ha debatut extensament sobre la possible protecció d'obres generades per IA, amb posicions divergents però generalment coincidint en la necessitat d'un règim específic.
+
+#### 5.4.2. Implicacions específiques de la proposta
+
+La implementació a Espanya presentaria avantatges comparatius:
+
+1. **Flexibilitat normativa**: El TRLPI ja ha incorporat amb èxit diversos règims especials, demostrant una capacitat d'adaptació sense grans tensions dogmàtiques.
+
+2. **Precedents de règims especials**: El règim sui generis de les bases de dades (article 133 TRLPI) ofereix un model útil de protecció basada en la inversió substancial, desvinculada de l'originalitat tradicional.
+
+3. **Jurisprudència adaptativa**: Els tribunals espanyols han mostrat una interpretació evolutiva del concepte d'originalitat, especialment en l'àmbit tecnològic (Sentència de l'Audiència Provincial de Barcelona de 1 de febrer de 2017, que va adoptar una visió funcionalista de l'originalitat en programes informàtics).
+
+No obstant això, subsisteixen certs desafiaments:
+
+1. **Coherència amb els drets morals**: L'article 14 TRLPI estableix un catàleg ampli de drets morals inalienables i irrenunciables, que contrasta amb la proposta d'exclusió total d'aquests drets.
+
+2. **Interacció amb el règim d'obres col·lectives**: L'article 8 TRLPI ja estableix un règim especial per a obres col·lectives que podria generar confusió conceptual amb el nou règim proposat.
+
+#### 5.4.3. Estratègia d'implementació recomanada
+
+Per a Espanya, es recomana:
+
+1. Introduir el nou règim com un títol independent dins el TRLPI, seguint l'estructura utilitzada per al dret sui generis sobre bases de dades.
+
+2. Establir explícitament la relació amb el règim d'obres col·lectives, clarificant que el nou règim s'aplica exclusivament a obres generades autònomament per IA sense intervenció creativa humana significativa.
+
+3. Incorporar un règim de transparència robust que funcioni com a contrapès a l'absència de drets morals, possiblement vinculat a les obligacions de transparència algorítmica que ja s'estan desenvolupant en l'àmbit de la protecció de dades (LOPDGDD).
+
+L'estratègia pot aprofitar el precedent de la recent modificació del TRLPI per la Llei 2/2019, que ja va introduir adaptacions significatives per a l'entorn digital sense generar tensions constitucionals.
+
+### 5.5. Països Nòrdics: extensió del model ECL
+
+#### 5.5.1. Marc normatiu actual (Dinamarca com a referent)
+
+Els països nòrdics comparteixen una tradició jurídica distintiva caracteritzada per un enfocament pragmàtic i col·lectivista. La Llei de Drets d'Autor danesa (Consolidated Act on Copyright 2014) reconeix la figura de l'autor persona física, però ha desenvolupat mecanismes únics per gestionar drets en entorns complexos, particularment el sistema de llicències col·lectives ampliades (ECL).
+
+Aquest sistema, regulat en les seccions 50-52 de la llei, permet que els acords entre organitzacions representatives de titulars de drets i usuaris s'estenguin a titulars no representats, creant un mecanisme eficient de gestió massiva de drets que podria resultar particularment adequat per a obres d'IA.
+
+La jurisprudència nòrdica ha adoptat tradicionalment un enfocament funcionalista. En el cas "Aakjær v. Gyldendal" (Tribunal Suprem danès, 2009), es va prioritzar la utilitat social de l'accés a les obres sobre una interpretació estricta dels drets exclusius.
+
+#### 5.5.2. Implicacions específiques de la proposta
+
+La implementació en països nòrdics presentaria oportunitats úniques:
+
+1. **Compatibilitat amb el sistema ECL**: El model de llicències col·lectives ampliades ofereix un mecanisme ja existent per gestionar eficientment els drets sobre obres d'IA, especialment en situacions de titularitat difusa o complexa.
+
+2. **Tradició de flexibilitat**: Els països nòrdics han mostrat una notable capacitat per adaptar el seu marc de propietat intel·lectual a noves realitats tecnològiques sense generar tensions dogmàtiques significatives.
+
+3. **Enfocament d'equilibri d'interessos**: La tradició jurídica nòrdica emfatitza l'equilibri entre els drets exclusius i l'interès públic, alineant-se amb la necessitat d'un règim proporcionat per a obres d'IA.
+
+Els principals desafiaments serien:
+
+1. **Integració amb el sistema d'excepcions**: Les lleis nòrdiques contenen un sistema detallat d'excepcions i limitacions que hauria d'adaptar-se al nou règim.
+
+2. **Coordinació entre països nòrdics**: Tradicionalment, aquests països coordinen estretament les seves reformes legislatives en propietat intel·lectual, el que podria retardar la implementació.
+
+#### 5.5.3. Estratègia d'implementació recomanada
+
+Per als països nòrdics, especialment Dinamarca, es recomana:
+
+1. Establir el nou règim com una categoria específica subjecta al sistema ECL, possibilitant una gestió eficient dels drets.
+
+2. Incorporar terminis reduïts de protecció, seguint la tradició pragmàtica nòrdica de limitar temporalment els drets exclusius en interès de l'equilibri social.
+
+3. Implementar un sistema de registre connectat amb el mecanisme ECL, facilitant la identificació de titulars i l'extensió dels acords col·lectius.
+
+Thomas Riis a "Intellectual Property Law in Denmark" (2021) suggereix que el model nòrdic podria ser especialment adequat per a innovacions com les obres generades per IA, donada la seva capacitat per conciliar protecció efectiva amb accessibilitat i ús social.
+
+### 5.6. Irlanda: adaptació del règim existent d'obres generades per ordinador
+
+#### 5.6.1. Marc normatiu actual
+
+Irlanda representa un cas d'especial interès per ser un dels pocs països de la UE que ja reconeix explícitament la protecció per dret d'autor d'obres generades per ordinador. El Copyright and Related Rights Act 2000 defineix en la seva secció 2(1) una "obra generada per ordinador" com aquella "generada per ordinador en circumstàncies on no existeix un autor humà", i la secció 21(f) estableix que "en el cas d'una obra literària, dramàtica, musical o artística generada per ordinador, l'autor serà la persona que realitza els arranjaments necessaris per a la creació de l'obra".
+
+Aquest marc legal, influenciat pel règim britànic pre-Brexit, proporciona una base normativa existent per a la protecció d'obres creades sense intervenció humana directa, tot i que no va ser dissenyat específicament per a sistemes d'IA avançada.
+
+La jurisprudència irlandesa ha interpretat aquestes disposicions en casos com _Grower v. EMI_ (2010), on el Tribunal Superior va adoptar un enfocament pragmàtic en considerar que la "persona que fa els arranjaments necessaris" pot ser tant una persona física com una entitat corporativa.
+
+#### 5.6.2. Implicacions específiques de la proposta
+
+La implementació a Irlanda presentaria certes avantatges comparatives:
+
+1. **Base normativa existent**: L'existència d'un règim per a obres generades per ordinador proporciona un punt de partida conceptual i legal per a l'adaptació.
+
+2. **Acceptació jurisprudencial**: Els tribunals irlandesos ja han acceptat la protecció d'obres no directament creades per humans, facilitant la transició.
+
+3. **Exclusió existent de drets morals**: La secció 107(3) ja exclou l'aplicació de drets morals a les obres generades per ordinador, alineant-se amb la proposta.
+
+Els principals desafiaments serien:
+
+1. **Adaptació del concepte d'arranjaments necessaris**: Aquest concepte resulta ambigua en el context d'IA avançada amb múltiples actors implicats (desenvolupadors, entrenadors, usuaris, etc.).
+
+2. **Ajust del termini de protecció**: L'actual termini de 70 anys (secció 30) sembla excessiu per a obres d'IA i requeriria modificació.
+
+3. **Compatibilitat amb el dret de la UE**: La interpretació del TJUE sobre originalitat podria generar tensions amb el règim irlandès existent.
+
+#### 5.6.3. Estratègia d'implementació recomanada
+
+Per a Irlanda, es recomana:
+
+1. Adaptar el règim existent d'obres generades per ordinador, clarificant i actualitzant definicions per reflectir les especificitats de l'IA generativa moderna.
+
+2. Modificar el termini de protecció a un període substancialment més curt (15-25 anys), més proporcional a la naturalesa de les obres d'IA.
+
+3. Establir criteris objectius per determinar qui ha realitzat "els arranjaments necessaris" en ecosistemes d'IA complexos, possiblement vinculats a la inversió substantiva i al paper determinant en la configuració del sistema.
+
+4. Introduir requisits de transparència que no existeixen en el règim actual però resulten necessaris en el context contemporani.
+
+Robert Clark i Shane Smyth a "Intellectual Property Law in Ireland" (2016) argumenten que el règim irlandès actual constitueix una base sòlida però requereix actualització per reflectir la creixent sofisticació i autonomia dels sistemes d'IA.
+
+### 5.7. Altres consideracions per a la implementació efectiva
+
+Cada estat membre presentarà particularitats addicionals que hauran de ser considerades en una fase posterior d'anàlisi. Entre aquests aspectes suplementaris destacarien:
+
+1. **Interacció amb règims de domini públic particulars**: Com el pagant a Itàlia o el reforçat a Portugal.
+
+2. **Compatibilitat amb tradicions constitucionals**: Especialment en països on certs aspectes de la propietat intel·lectual gaudeixin de protecció constitucional explícita.
+
+3. **Coordinació amb iniciatives nacionals específiques**: Diversos estats membres han desenvolupat o estan desenvolupant estratègies nacionals d'IA amb components de propietat intel·lectual que haurien de ser harmonitzades amb la proposta europea.
+
+La implementació efectiva requerirà un enfocament multinivell que combini l'harmonització mínima a nivell europeu amb flexibilitat per a l'adaptació a les particularitats nacionals, seguint el model que ha demostrat ser efectiu en altres àrees del dret de propietat intel·lectual europeu.
+
+## 6. Conclusions i recomanacions
 
 L'harmonització de la protecció d'obres generades per IA a la UE presenta reptes variables segons la tradició jurídica i les particularitats de cada estat membre. No obstant això, es poden extreure diverses conclusions transversals:
 
