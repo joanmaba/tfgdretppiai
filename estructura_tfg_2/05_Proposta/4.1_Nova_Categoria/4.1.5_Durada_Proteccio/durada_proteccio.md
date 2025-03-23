@@ -32,24 +32,27 @@ Després d'analitzar les diferents opcions i considerant la naturalesa específi
 
 ### Durada principal
 
-**Un termini de protecció de 25 anys des de la primera divulgació o posada a disposició del públic de l'obra generada per IA.**
+**Sobre la base d'aquesta anàlisi, la proposta estableix:**
+
+- Protecció de 10 anys des de l'entrada en vigor, o
+- Protecció de 10 anys des de la primera divulgació autoritzada, si aquesta es produeix dins dels 10 anys següents a la seva creació
 
 ### Variants específiques
 
 | Circumstància | Durada | Justificació |
 |---------------|--------|--------------|
-| **Obres no divulgades** | 25 anys des de la creació | Evitar incertesa jurídica |
-| **Obres de gran inversió** | Possible ampliació a 30 anys (criteris objectius) | Protecció d'inversions excepcionals |
+| **Obres no divulgades** | 10 anys des de la creació | Evitar incertesa jurídica |
+| **Obres de gran inversió** | Possible ampliació a 30-40 anys (criteris objectius) | Protecció d'inversions excepcionals |
 | **Obres de valor cultural excepcional** | Manteniment del termini estàndard | Evitar discriminació subjectiva |
 | **Obres evolutives/dinàmiques** | Inici nou termini per a modificacions substancials | Adaptació a caràcter iteratiu de l'IA |
 
 ## Justificació del termini proposat
 
-La proposta de 25 anys es fonamenta en múltiples consideracions:
+La proposta de 10 anys es fonamenta en múltiples consideracions:
 
 ### Arguments econòmics
 
-1. **Recuperació d'inversió**: Un període de 25 anys permet una explotació econòmica suficient per recuperar inversions significatives en:
+1. **Recuperació d'inversió**: Un període de 10 anys permet una explotació econòmica suficient per recuperar inversions significatives en:
    - Desenvolupament de sistemes d'IA
    - Configuració i entrenament específic
    - Implementació i refinament
@@ -116,7 +119,7 @@ Durant l'elaboració d'aquesta proposta, s'han considerat i descartat altres opc
 
 ### Per sectors específics
 
-La durada de 25 anys té diferents implicacions segons el sector:
+La durada de 10 anys té diferents implicacions segons el sector:
 
 | Sector | Implicacions específiques |
 |--------|---------------------------|
@@ -140,7 +143,7 @@ La durada proposada contribueix a la seguretat jurídica mitjançant:
 
 ## Aspectes internacionals
 
-La proposta de 25 anys té implicacions en el context internacional:
+La proposta de 10 anys té implicacions en el context internacional:
 
 1. **Harmonització potencial**: Podria convertir-se en estàndard europeu mitjançant directiva.
 
@@ -189,7 +192,7 @@ Per a l'aplicació inicial de la durada proposada, es recomana:
 
 ## Beneficis de la proposta de durada
 
-La durada proposada de 25 anys ofereix avantatges significatius:
+La durada proposada de 10 anys ofereix avantatges significatius:
 
 1. **Equilibri d'interessos**: Entre protecció econòmica i accés cultural/innovador.
 
@@ -203,7 +206,7 @@ La durada proposada de 25 anys ofereix avantatges significatius:
 
 ## Conclusions sobre la durada de protecció
 
-La protecció de 25 anys proposada per a les obres generades per IA representa una solució equilibrada que:
+La protecció de 10 anys proposada per a les obres generades per IA representa una solució equilibrada que:
 
 1. **Reconeix la naturalesa específica** d'aquestes creacions, diferenciada de l'autoria humana tradicional.
 
@@ -216,6 +219,19 @@ La protecció de 25 anys proposada per a les obres generades per IA representa u
 5. **Ofereix seguretat jurídica** mitjançant regles clares, objectives i verificables.
 
 Aquest termini, juntament amb els mecanismes complementaris proposats, configura un marc temporal adequat per a aquesta nova categoria jurídica, adaptada a les particularitats de la creació algorítmica i a les necessitats d'un ecosistema d'innovació equilibrat.
+
+#### Obres orfes
+Les obres generades per IA on no sigui possible identificar o localitzar l'entitat legalment responsable tindran una protecció especial de 10 anys des de la seva creació, després dels quals passen automàticament al domini públic.
+
+### Comparativa amb altres règims de protecció
+
+| Tipus de Protecció | Termini general | Justificació |
+|---|---|---|
+| Drets d'autor (UE) | 70 anys post mortem auctoris | Protecció personalíssima basada en la vinculació autor-obra |
+| Patents (UE) | 20 anys des de la sol·licitud | Equilibri entre incentiu a la innovació i interès públic |
+| **Obres generades per IA** | **10 anys des de divulgació** | **Equilibri específic pel cas d'obres no humanes** |
+| Models d'utilitat | 10 anys des del registre | Innovacions de menor entitat amb protecció reduïda |
+| Disseny industrial | 25 anys des del registre | Protecció de valor estètic aplicat a productes industrials |
 
 ---
 

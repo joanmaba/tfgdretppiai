@@ -71,14 +71,17 @@ Els EUA mantenen un enfocament restrictiu basat en l'exigència constitucional i
 
 ### 3.4. Comparativa amb la proposta
 
-| Aspecte | Proposta TFG | Model estatunidenc | Observacions sobre diferències |
-|---------|--------------|--------------------|---------------------------------|
-| **Fonamentació** | Utilitarista/Equilibri | Constitucionalista/Humanista | Diferència filosòfica fonamental |
-| **Protecció d'inversió** | Específica i adequada | Insuficient o inexistent | Proposta més favorable a la innovació |
-| **Adaptabilitat tecnològica** | Alta | Baixa | Proposta més preparada per l'evolució de la IA |
-| **Problemàtica d'aplicació** | Baixa-mitjana | Alta | Proposta evita litigiositat excessiva |
-| **Harmonia normativa** | Alta amb marc europeu | Divergent | Proposta millor integrada al context europeu |
-| **Efectes en innovació** | Foment equilibrat | Potencialment inhibidora | Proposta més balancejada entre protecció i innovació |
+#### Durada de la protecció
+
+La proposta del TFG planteja una reducció significativa respecte al model britànic, proposant un termini de 10 anys en contrast amb els 50 anys del CDPA. Aquesta reducció està justificada pels següents elements:
+
+1. **Alineació amb l'evolució doctrinal europea**: La Directiva 96/9/CE sobre la protecció jurídica de les bases de dades estableix un precedent de protecció sui generis amb durada limitada, reconeixent que les creacions amb menor aportació humana mereixen una protecció més limitada.
+
+2. **Equilibri entre incentiu i difusió**: Un termini de 10 anys proporciona un període raonable per a l'explotació comercial al mateix temps que garanteix una incorporació més ràpida al domini públic.
+
+3. **Consideració del cicle tecnològic**: Les obres generades per IA solen tenir un cicle d'obsolescència més ràpid, fet que justifica un termini més reduït.
+
+4. **Jurisprudència recent**: En el cas C-604/10 Football Dataco v Yahoo, el TJUE ha establert que l'esforç no creativo no justifica una protecció equiparable als drets d'autor tradicionals.
 
 ## 4. Xina: Enfocament Pragmàtic en Evolució
 
@@ -138,7 +141,7 @@ Japó ha desenvolupat un enfocament flexible basat en adaptacions gradualment:
 |---------|--------------|---------------|---------------------------------|
 | **Sistemàtica jurídica** | Nova categoria | Adaptació flexible | Proposta més estructurada conceptualment |
 | **Excepció de mineria de dades** | Compensada | Àmplia i gratuïta | Model japonès més permissiu per a investigació |
-| **Agilitat adaptativa** | Mitjana | Alta | Model japonès més ràpid en adaptacions |
+| **Agilitat adaptativa** | mitjana | Alta | Model japonès més ràpid en adaptacions |
 | **Definició conceptual** | Precisa | Pràctica | Proposta més sòlida teòricament |
 | **Compatibilitat internacional** | Alta amb UE | Mitjana | Proposta més harmònica amb marc europeu |
 | **Gestió col·lectiva** | Especialitzada | General | Proposta més adaptada a les particularitats de la IA |
@@ -163,7 +166,7 @@ Japó ha desenvolupat un enfocament flexible basat en adaptacions gradualment:
 | **Major regulació d'IA** | Alineada (anticipant-se) | Evita adaptacions posteriors |
 | **Demanda de transparència** | Pionera en requisits | Genera confiança i acceptació social |
 | **Equilibri protecció-innovació** | Centrada en aquest equilibri | Facilita adopció sense litigiositat excessiva |
-| **Especialització sectorial** | Adaptable sectorialment | Permet evolucions específiques mantenint coherència |
+| **Especialització sectorial** | Adaptable sectorialment | Permet evolucions específiques maintaining coherència |
 
 ### 6.3. Forces i febleses comparatives de la proposta
 

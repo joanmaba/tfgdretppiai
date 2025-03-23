@@ -85,7 +85,7 @@ S'inclourien els drets d'explotació tradicionals:
 
 Però amb limitacions específiques:
 
-- **Duració reduïda**: 25 anys des de la creació (en comptes dels 70 anys post mortem auctoris).
+- **Duració reduïda**: 10 anys des de la creació (en comptes dels 70 anys post mortem auctoris).
 - **Llicència obligatòria per a certs usos transformatius**: Per facilitar la innovació i creació derivada.
 - **Obligació de transparència**: Identificar clarament l'origen IA de l'obra.
 

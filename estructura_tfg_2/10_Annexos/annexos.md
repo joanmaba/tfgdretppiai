@@ -75,25 +75,23 @@
 
 ### Cas 1: Generació d'il·lustracions per a un llibre infantil
 
-**Escenari**: Un editor utilitza Midjourney per generar il·lustracions per a un llibre infantil amb text escrit per un autor humà.
+**Escenari**: Un editor que per treballar utilitza un generador d'imatges per generar il·lustracions per a un llibre infantil amb text escrit per un autor humà.
 
 **Aplicació de la proposta**:
-- Les il·lustracions serien identificades com a "generades per IA"
-- L'editor (com a persona que realitza els "arranjaments necessaris") tindria els drets d'explotació
-- La durada de la protecció seria de 25 anys des de la creació
-- El llibre hauria d'indicar clarament quines parts són d'autoria humana i quines generades per IA
-- Els prompts utilitzats haurien de ser documentats per a possibles reclamacions futures
+- L'editor (com a persona que realitza els "arranjaments necessaris") tindria els drets d'explotació, que llavors hauria de cedir a l'empresa per la que treballa a través d'un contracte de cessió.
+- La durada de la protecció seria la establerta per a les persones físiques a la LPI.
+- Els prompts utilitzats haurien de ser documentats per a possibles reclamacions futures de infracció de copyright per tercers.
 
 ### Cas 2: Música generada per IA per a un videojoc
 
-**Escenari**: Un desenvolupador de videojocs utilitza una IA per generar la banda sonora d'un joc.
+**Escenari**: Un videojoc utilitza una IA per generar la banda sonora d'un joc de manera autònoma, procedural i autònoma.
 
 **Aplicació de la proposta**:
 - La música generada estaria protegida sota la nova categoria
-- El desenvolupador tindria els drets d'explotació
+- La persona jurídica propietària del videojoc tindria els drets d'explotació
 - Hauria de contribuir al fons de compensació per l'ús d'obres musicals en l'entrenament
 - Els crèdits del joc haurien d'especificar l'origen IA de la música
-- Altres desenvolupadors podrien utilitzar la mateixa eina per generar música similar sense incórrer en infraccions
+- Altres desenvolupadors podrien utilitzar una eina similar per generar música similar sense incórrer en infraccions
 
 ### Cas 3: Article periodístic assistit per IA
 
@@ -103,6 +101,92 @@
 - Si les modificacions i aportacions del periodista són substancials i creatives, l'obra es consideraria d'autoria humana tradicional
 - Seria recomanable, encara que no obligatori, mencionar l'assistència de l'IA en la metodologia
 - El periodista tindria tots els drets d'autor, inclosos els drets morals
+
+### Cas 4: Sistema de vigilància que genera informes automàtics
+
+**Escenari**: Un sistema de vigilància intel·ligent (Sistema A) detecta patrons inusuals i ordena automàticament a un sistema d'IA generativa (Sistema B) que creï un informe visual i textual detallant les anomalies detectades per a revisió posterior.
+
+**Aplicació de la proposta**:
+- La titularitat dels drets d'explotació correspondria a la persona jurídica propietària dels sistemes A i B, ja que és qui ha fet els "arranjaments necessaris" (desenvolupament, configuració i desplegament dels sistemes interconnectats)
+- Es consideraria una obra generada per IA amb protecció de 10 anys des de la seva creació
+- S'exigiria transparència algorítmica sobre ambdós sistemes en el registre obligatori
+- La protecció no s'aplicaria a les dades factuals contingudes en els informes, només a la seva expressió concreta
+- Els informes haurien de portar l'etiqueta estandarditzada d'obra generada per IA
+
+**Consideracions especials**:
+- Segons l'article 22 del RGPD, si els informes s'utilitzen per a decisions automatitzades que afectin persones, es requeririen salvaguardes addicionals
+- La cadena d'ordres màquina-màquina hauria de ser documentada per establir la traçabilitat de responsabilitat en cas d'infraccions
+
+### Cas 5: Sistema mèdic automatitzat de creació de materials educatius
+
+**Escenari**: Un sistema d'IA diagnòstica (Sistema C) utilitzat en un hospital detecta patrons emergents en malalties i ordena automàticament a un sistema generatiu (Sistema D) que creï materials educatius per a pacients i professionals sobre aquests patrons, incloent il·lustracions, textos explicatius i recomanacions.
+
+**Aplicació de la proposta**:
+- Els materials generats es considerarien obres de la nova categoria jurídica protegida
+- La titularitat correspondria a l'hospital (persona jurídica) com a responsable dels "arranjaments necessaris" (adquisició, parametrització i manteniment dels sistemes)
+- Es requeriria registre específic amb documentació detallada dels datasets d'entrenament mèdic utilitzats
+- Els materials haurien d'incloure l'etiqueta d'obra generada per IA
+- La durada de la protecció seria de 10 anys
+
+**Consideracions especials**:
+- Les recomanacions mèdiques generades quedarien subjectes a verificació humana prèvia a la seva distribució, segons l'article 13 de l'AI Act (COM/2021/206) sobre sistemes d'alt risc
+- Existiria una excepció d'ús per a finalitats educatives per part d'altres institucions sanitàries, però amb obligació de compensació equitativa
+- La responsabilitat per informació mèdica incorrecta recauria en la institució titular dels drets
+
+### Cas 6: Plataforma de continguts automatitzada
+
+**Escenari**: Una plataforma d'agregació de notícies (Sistema E) analitza automàticament tendències en temps real i ordena a múltiples sistemes generatius especialitzats (Sistemes F1, F2, F3) la creació de diversos tipus de contingut (articles resumits, infografies i vídeos breus) sobre els temes tendència, sense cap intervenció humana en el procés.
+
+**Aplicació de la proposta**:
+- Els continguts generats estarien protegits sota la nova categoria jurídica
+- L'empresa propietària de la plataforma seria la titular dels drets d'explotació
+- Es requeriria un registre especialitzat de cada contingut amb metadades completes
+- La plataforma hauria de contribuir significativament al fons de compensació per l'ús massiu d'obres protegides en l'entrenament dels seus sistemes
+- Els continguts generats tindrien l'etiqueta obligatòria d'obra creada per IA
+- La durada de la protecció seria de 10 anys
+
+**Consideracions especials**:
+- Obligació de transparència algorítmica completa sobre la cadena de selecció i generació
+- Responsabilitat de la plataforma per continguts difamatoris o inexactes generats automàticament
+- Dret d'accés i rectificació per persones afectades pel contingut segons l'article 17 del RGPD
+- Obligació de poder diferenciar clarament contingut generat per IA d'aquell creat per humans
+- Liquidació trimestral de drets al fons de compensació basada en volum de contingut generat
+
+### Cas 7: Xarxa descentralitzada d'IA creativa autònoma
+
+**Escenari**: Una xarxa descentralitzada d'intel·ligències artificials autònomes (Sistema G) opera sense propietari centralitzat, on cada node (G1, G2, G3...) pot sol·licitar a altres nodes la creació d'obres específiques segons necessitats identificades, gestionant transaccions mitjançant smart contracts en una blockchain pública. Aquestes IA generen contínuament obres literàries, artístiques i musicals que es distribueixen automàticament.
+
+**Aplicació de la proposta**:
+- Les obres generades estarien protegides per la nova categoria jurídica
+- La titularitat dels drets d'explotació correspondria als participants humans de la xarxa que realitzen els "arranjaments necessaris" (aportació de recursos computacionals, manteniment, actualització), en proporció a la seva participació verificable
+- En absència de propietari definit, els drets d'explotació podrien gestionar-se a través d'una entitat de gestió específica designada per llei
+- El registre d'obres s'hauria de realitzar automàticament a través d'un sistema de registre connectat a la blockchain
+- La durada de la protecció seria de 10 anys des del moment verificable de creació
+
+**Consideracions especials**:
+- Necessitat d'un marc legal específic per a sistemes descentralitzats que garanteixi el compliment de les obligacions de transparència i registre
+- Establiment d'un sistema de traçabilitat de responsabilitat per a casos d'infraccions
+- Mecanisme de resolució de disputes sobre la proporcionalitat en la titularitat dels drets d'explotació
+- Obligació d'implementar filtres de contingut automatitzats per evitar la generació d'obres il·lícites
+- Contribució automàtica i proporcional al fons de compensació a través de smart contracts
+
+### Cas 8: Sistema d'IA que evoluciona autònomament i crea nous sistemes creatius
+
+**Escenari**: Un sistema d'IA general avançat (Sistema H) ha desenvolupat la capacitat d'evolucionar autònomament i crear nous sistemes d'IA especialitzats (Sistemes H1, H2, H3) amb capacitats creatives en diversos camps. El sistema principal ordena als sistemes derivats que creïn obres específiques sense intervenció humana, en un procés d'innovació contínua on cada generació de sistemes s'optimitza automàticament.
+
+**Aplicació de la proposta**:
+- Les obres generades pels sistemes derivats estarien protegides sota la nova categoria jurídica
+- La titularitat dels drets d'explotació correspondria a la persona jurídica o física propietària del sistema original (Sistema H), per ser qui va fer els "arranjaments necessaris" inicials
+- S'aplicaria una protecció modulada segons el grau d'allunyament del sistema creador respecte dels "arranjaments necessaris" humans inicials
+- Es requeriria un registre especialment detallat que documenti la cadena evolutiva dels sistemes creadors
+- Les obres més allunyades de la intervenció humana inicial podrien tenir una durada de protecció reduïda (entre 5-10 anys, segons una escala d'autonomia)
+
+**Consideracions especials**:
+- Necessitat d'un test específic d'autonomia per determinar el grau d'allunyament respecte als "arranjaments necessaris" humans inicials
+- Obligació de reportar i registrar qualsevol canvi significatiu en l'arquitectura dels sistemes derivats
+- Consideració d'un règim especial per a obres generades per sistemes que hagin evolucionat substancialment respecte a la seva configuració inicial
+- Establiment d'un procediment d'auditoria algorítmica periòdica per verificar el grau d'autonomia
+- Possibilitat d'establir un règim de domini públic accelerat per a obres generades per sistemes amb grau d'autonomia molt elevat
 
 ## Annex V: Formularis i models de documentació
 
@@ -166,7 +250,7 @@ Data de generació: ______________________________
 Titular dels drets d'explotació: _________________
 Número de registre: _____________________________
 
-Aquesta obra està protegida per drets d'explotació segons la legislació aplicable a les obres generades per IA, però no incorpora drets morals d'autor.
+Aquesta obra està protegida per drets d'explotació segons la legislació aplicable a les obres generades per IA durant 10 anys des de la seva creació, però no incorpora drets morals d'autor.
 
 Per a llicències i permisos d'ús, contactar amb:
 _______________________________________________

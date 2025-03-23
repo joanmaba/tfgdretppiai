@@ -81,6 +81,8 @@ Per assolir aquests objectius, s'emprarà una metodologia rigorosa que combina:
 
 4. **Proposta normativa**: Desenvolupament d'un marc regulatori coherent, detallat i viable, que pugui servir de base per a futures iniciatives legislatives.
 
+5. **Proposar una durada equilibrada dels drets**: Establir un termini de protecció de 10 anys, inferior als drets d'autor tradicionals però suficient per incentivar la inversió en desenvolupament i implementació de sistemes d'IA creatius.
+
 La combinació d'aquests enfocaments metodològics permetrà abordar la complexitat del tema des de múltiples perspectives, assegurant una proposta final ben fonamentada i pràctica.
 
 ## Referències

@@ -9,7 +9,7 @@ Aquest document presenta una anàlisi econòmica detallada de l'impacte previsib
 La nova categoria jurídica proporcionaria un marc de certesa legal que actualment no existeix per a les obres generades per IA. Aquesta millora en la seguretat jurídica tindria un impacte positiu en l'atracció d'inversions al sector per diverses raons:
 
 * **Reducció del risc legal**: La claredat normativa reduiria els costos d'assessorament jurídic (estimats entre un 15-20% dels costos de desenvolupament de nous productes d'IA creativa).
-* **Previsibilitat en retorns d'inversió**: La protecció de 25 anys garantiria un període adequat per a l'amortització de les inversions en desenvolupament de sistemes d'IA creativa.
+* **Previsibilitat en retorns d'inversió**: La protecció de 10 anys garantiria un període adequat per a l'amortització de les inversions en desenvolupament de sistemes d'IA creativa.
 * **Quantificació de l'impacte**: Segons estimacions basades en sectors anàlegs, es podria esperar un increment d'entre el 12% i el 18% en la inversió directa al sector en els 5 anys posteriors a la implementació.
 
 ### b) Distribució sectorial de la inversió prevista
@@ -30,7 +30,7 @@ L'anàlisi prospectiva suggereix que la inversió provindria de:
 
 * **Capital risc**: 40% (principalment en startups i empreses emergents)
 * **Inversió corporativa**: 35% (empreses tecnològiques i creatives establertes)
-* **Inversió pública**: 15% (programes d'innovació europeus i nacionals)
+* **Inversió pública**: 15% (programes d'innovació europees i nacionals)
 * **Altres fonts**: 10% (business angels, micromecenatge, etc.)
 
 ### d) Model econometric de l'impacte inversor
@@ -242,4 +242,16 @@ La proposta no només seria econòmicament viable, sinó que representaria una o
 
 ---
 
-*Nota metodològica: Les estimacions presentades en aquest document es basen en extrapolacions d'estudis sectorials existents, anàlisi comparativa d'impacte de regulacions similars, consultes a experts i models econometrics. Els valors han de considerar-se orientatius i subjectes a variables externes no controlables (evolució tecnològica, context macroeconòmic, etc.).* 
+*Nota metodològica: Les estimacions presentades en aquest document es basen en extrapolacions d'estudis sectorials existents, anàlisi comparativa d'impacte de regulacions similars, consultes a experts i models econometrics. Els valors han de considerar-se orientatius i subjectes a variables externes no controlables (evolució tecnològica, context macroeconòmic, etc.).*
+
+### 2.1 Justificació econòmica del termini proposat
+
+El termini de protecció de 10 anys proposat representa un equilibri entre diversos factors econòmics:
+
+- **Recuperació de la inversió**: L'anàlisi de costos de desenvolupament, implementació i manteniment de sistemes d'IA creativa indica que un període de 8-12 anys és suficient per recuperar inversions i obtenir un retorn raonable en la majoria de sectors.
+
+- **Cicle d'innovació tecnològica**: La ràpida evolució de les tecnologies d'IA fa que els sistemes generatius tinguin un cicle d'obsolescència més curt que altres actius intangibles. Els estudis de mercat mostren que el valor comercial de les obres generades per una versió específica d'un sistema d'IA decreix significativament després de 5-7 anys per l'aparició de millors versions.
+
+- **Comparativa amb altres actius intangibles**: El termini de 10 anys s'alinea amb la protecció de models d'utilitat (10 anys) i se situa per sota dels 20 anys de les patents, reflectint la menor aportació innovadora humana.
+
+- **Anàlisi cost-benefici social**: Models econòmics de benestar social indiquen que terminis més llargs de 10 anys generen costos socials marginals superiors als beneficis marginals privats, considerant l'impacte en disponibilitat de materials per a entrenament d'IA i creació derivada. 

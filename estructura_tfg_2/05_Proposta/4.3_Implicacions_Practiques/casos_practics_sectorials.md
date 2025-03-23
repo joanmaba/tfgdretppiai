@@ -22,7 +22,7 @@ L'editorial educativa ManualsCAT desenvolupa un projecte de llibres de text digi
 |---------|-------------------|
 | **Qualificació jurídica** | Obres generades per IA (no assoleixen el llindar d'originalitat humana) |
 | **Titularitat** | IA-Visuals SL (com a persona jurídica que ha fet els arranjaments necessaris) |
-| **Durada de protecció** | 25 anys des de la primera publicació del llibre de text |
+| **Durada de protecció** | 10 anys des de la primera publicació del llibre de text |
 | **Obligacions de transparència** | Etiquetatge en cada il·lustració indicant "Imatge generada per IA" |
 | **Registre** | Registre conjunt de totes les il·lustracions del projecte, amb exemplars representatius |
 | **Explotació** | Contracte de llicència d'ús entre IA-Visuals i l'editorial |
@@ -59,7 +59,7 @@ La productora catalana FilmsBCN prepara un llargmetratge de ciència-ficció amb
 |---------|-------------------|
 | **Qualificació jurídica** | Sistema mixt: els paisatges base són obres generades per IA; la integració final podria qualificar-se com a obra audiovisual tradicional |
 | **Titularitat** | FilmsBCN sobre els paisatges generats (com a organitzadora del procés); titularitat tradicional sobre l'obra cinematogràfica completa |
-| **Durada de protecció** | 25 anys per als paisatges generats per IA; règim general per a l'obra cinematogràfica completa |
+| **Durada de protecció** | 10 anys per als paisatges generats per IA; règim general per a l'obra cinematogràfica completa |
 | **Obligacions de transparència** | Menció en crèdits: "Paisatges alienígenes creats mitjançant tecnologia d'IA" |
 | **Registre** | Registre diferenciat de: a) elements generats per IA, b) obra cinematogràfica completa |
 | **Comercialització** | Possibilitat de comercialitzar separadament els paisatges aliens generats per a altres produccions |
@@ -96,7 +96,7 @@ L'empresa AmbientSound es dedica a crear música ambiental per a centres comerci
 |---------|-------------------|
 | **Qualificació jurídica** | Obres generades per IA (sense modificació creativa humana substancial) |
 | **Titularitat** | AmbientSound (com a empresa que ha realitzat els arranjaments necessaris) |
-| **Durada de protecció** | 25 anys des de la primera comercialització de cada composició |
+| **Durada de protecció** | 10 anys des de la primera comercialització de cada composició |
 | **Obligacions de transparència** | Etiquetatge en metadades i materials promocionals: "Música generada per IA" |
 | **Registre** | Registre per col·leccions, amb depòsit digital de les composicions |
 | **Model de negoci** | Subscripció per a clients comercials; llicències específiques per a usos més amplis |
@@ -133,7 +133,7 @@ L'artista contemporània Maria Puig desenvolupa una sèrie titulada "Diàlegs am
 |---------|-------------------|
 | **Qualificació jurídica** | Obra derivada (transformació creativa humana sobre base generada per IA) |
 | **Titularitat** | Dual: Maria Puig (com a autora de l'obra derivada); proveïdor del sistema d'IA (sobre els elements base) |
-| **Durada de protecció** | Règim general d'autoria per a la contribució creativa; 25 anys per als elements base d'IA |
+| **Durada de protecció** | Règim general d'autoria per a la contribució creativa; 10 anys per als elements base d'IA |
 | **Obligacions de transparència** | Menció explícita: "Obra mixta: intervenció artística sobre base generada per IA" |
 | **Registre** | Registre com a obra derivada, amb especificació dels elements d'origen IA |
 | **Explotació** | Necessitat d'autorització del titular dels drets sobre els elements d'IA base |
@@ -170,7 +170,7 @@ L'estudi de desenvolupament GameCat crea un videojoc de món obert on s'utilitze
 |---------|-------------------|
 | **Qualificació jurídica** | Obra complexa amb elements mixtos: parts tradicionals (disseny de joc, narrativa, personatges) i elements generats per IA (entorns procedurals) |
 | **Titularitat** | GameCat com a titular de tots els drets: tradicionals sobre elements d'autoria humana; drets específics sobre elements generats per IA |
-| **Durada de protecció** | Règim diferenciat: protecció tradicional per al disseny de joc i elements narratius; 25 anys per als elements procedurals |
+| **Durada de protecció** | Règim diferenciat: protecció tradicional per al disseny de joc i elements narratius; 10 anys per als elements procedurals |
 | **Obligacions de transparència** | Menció en crèdits i documentació: "Entorns generats proceduralment mitjançant tecnologia d'IA" |
 | **Registre** | Registre unificat però diferenciant elements segons la seva naturalesa jurídica |
 | **Model de negoci** | Comercialització com a producte unificat; possible comercialització secundària de tecnologia procedural |

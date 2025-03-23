@@ -145,7 +145,7 @@ Verificar la consistència de l'argumentació a través de tot el document, evit
 
 Examinar críticament els següents punts que podrien necessitar enfortiment:
 
-1. Justificació detallada per a l'elecció de 25 anys com a durada (més evidència econòmica)
+1. Justificació detallada per a l'elecció de 10 anys com a durada (més evidència econòmica)
 2. Explicació ampliada dels criteris per identificar quan una persona jurídica ha fet "els arranjaments necessaris"
 3. Concreció sobre com determinar la "prominència" d'una obra en l'entrenament per a la compensació
 4. Claredat sobre el mecanisme pràctic d'etiquetatge i identificació d'obres IA

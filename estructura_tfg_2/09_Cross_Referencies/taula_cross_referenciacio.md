@@ -29,7 +29,7 @@ Creació/Generació d'obra amb IA → Test de llindar d'originalitat humana → 
                                                                                   ↓
           ┌──────────────────────────────────────────────────────────────────────┼─────────────────┐
           ↓                                   ↓                                   ↓                 ↓
- Determinació de titularitat    Aplicació termini de 25 anys    Registre específic    Transparència/Etiquetatge
+ Determinació de titularitat    Aplicació termini de 10 anys    Registre específic    Transparència/Etiquetatge
           ↓                                   ↓                                   ↓                 ↓
  Exercici drets d'explotació                                 Afiliació a entitat de gestió especialitzada
           ↓                                                                       ↓
@@ -46,7 +46,7 @@ Aquesta taula mostra com els diferents elements de la proposta es relacionen amb
 |------------------------|-------------------|-----------------|----------------------|------------------------|
 | **Nova categoria jurídica** | Requereix ampliació | Compatible via sui generis | Complementari (transparència) | Requereix modificació |
 | **Criteris de titularitat** | Neutre | Compatible (no autoria) | Neutre | Requereix adaptació |
-| **Durada de 25 anys** | Neutre | Compatible | Neutre | Requereix modificació |
+| **Durada de 10 anys** | Neutre | Compatible | Neutre | Requereix modificació |
 | **Absència drets morals** | Neutre | Tensió amb Art. 6bis | Neutre | Requereix modificació |
 | **Sistema de registre** | Neutre | Compatible | Sinèrgic (traçabilitat) | Requereix implementació |
 | **Gestió especialitzada** | Art. 12 adaptable | Compatible | Neutre | Requereix modificació |
@@ -73,7 +73,7 @@ Aquesta taula avalua la coherència interna entre els components de la proposta:
 | **Nova categoria jurídica** | **Règim sui generis** | Alt | Delimitació amb drets connexos | Criteris diferenciadors específics |
 | **Arranjaments necessaris** | **Titularitat persones jurídiques** | Mitjà-alt | Determinació concreta de requisits | Test objectiu d'aportació organitzativa |
 | **Absència drets morals** | **Obligacions transparència** | Alt | Cap tensió significativa | Reforç mutu |
-| **Durada 25 anys** | **Incentius inversió** | Mitjà | Potencial insuficiència per inversions grans | Possibilitat de mecanismes complementaris |
+| **Durada 10 anys** | **Incentius inversió** | Mitjà | Potencial insuficiència per inversions grans | Possibilitat de mecanismes complementaris |
 | **Sistema registre** | **Reducció litigiositat** | Alt | Costos administratius | Simplificació i digitalització |
 | **Compensació per TDM** | **Lliure flux de dades** | Mitjà-baix | Restricció potencial a la innovació | Llicències flexibles i excepcions d'investigació |
 
