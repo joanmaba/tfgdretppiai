@@ -132,7 +132,7 @@ El Code de la Propriété Intellectuelle (CPI) francès, model de referència pe
 
 Aquesta concepció es remunta a les lleis revolucionàries de 1791 i 1793, però la seva construcció doctrinal moderna s'articula principalment a través de l'obra d'Henri Desbois, "Le droit d'auteur en France" (1978), on desenvolupa la teoria de "l'empreinte de la personnalité" com a criteri fonamental d'originalitat i justificació del dret d'autor.
 
-La jurisprudència francesa ha reforçat consistentment aquesta visió. El cas emblemàtic _Barbelivien c/ Sté Universal Music_ (Cour de Cassation, 1ª Chambre Civile, 4 de maig de 2012) estableix que "l'originalité d'une œuvre de l'esprit s'apprécie uniquement au regard de l'empreinte de la personnalité de son auteur".
+La jurisprudència francesa ha reforçat consistentment aquesta visió personalista. En el cas emblemàtic _Barbelivien c/ Sté Universal Music_ (Cour de Cassation, 1ª Chambre Civile, 4 de maig de 2012) estableix que "l'originalité d'une œuvre de l'esprit s'apprécie uniquement au regard de l'empreinte de la personnalité de son auteur".
 
 **b) Nucli dur dels drets morals inalienables**
 
@@ -890,14 +890,370 @@ La implementació efectiva requerirà un enfocament multinivell que combini l'ha
 
 L'harmonització de la protecció d'obres generades per IA a la UE presenta reptes variables segons la tradició jurídica i les particularitats de cada estat membre. No obstant això, es poden extreure diverses conclusions transversals:
 
-1. **Enfocament gradual**: L'aproximació més viable és mitjançant una directiva amb termini de transposició adequat, que permeti l'adaptació a les particularitats nacionals.
+### 6.1. Conclusions de l'anàlisi comparativa
 
-2. **Règim sui generis**: La creació d'una categoria específica, separada conceptualment del dret d'autor tradicional, és la solució més compatible amb els diversos ordenaments.
+L'anàlisi jurídica comparativa realitzada permet extreure les següents conclusions principals:
 
-3. **Transparència i divulgació**: En tots els estats membres, un requisit essencial ha de ser la divulgació obligatòria de l'ús d'IA en la generació d'obres.
+1. **Fragmentació normativa actual**: L'absència d'un marc harmonitzat genera una inseguretat jurídica substantiva que obstaculitza el desenvolupament del mercat únic digital en l'àmbit de la IA creativa. Aquesta inseguretat es manifesta en:
+   - Disparitat de criteris sobre la protegibilitat de les obres generades per IA
+   - Incertesa sobre la titularitat dels drets
+   - Diferències substancials en la durada i abast de la protecció
+   - Tractaments divergents sobre transparència i atribució
 
-4. **Distància amb l'autoria humana**: Per evitar conflictes constitucionals, el nou règim ha d'establir clarament les seves diferències amb la protecció d'obres d'autoria humana.
+2. **Tensions conceptuals amb els sistemes tradicionals**: Tots els ordenaments jurídics europeus presenten, en major o menor mesura, tensions conceptuals entre els seus fonaments dogmàtics i la protecció d'obres no humanes. Aquestes tensions són:
+   - Màximes en els sistemes personalistes (França, Bèlgica)
+   - Significatives en els sistemes monistes (Alemanya, Àustria)
+   - Moderades en els sistemes mixtos (Espanya, Itàlia)
+   - Menors en sistemes pragmàtics (Països Nòrdics, Irlanda)
 
-5. **Diàleg amb stakeholders nacionals**: La transposició en cada país ha d'involucrar activament els agents del sector i l'acadèmia jurídica per garantir una implementació adaptada a cada realitat nacional.
+3. **Precedents d'adaptació jurídica**: L'anàlisi històrica demostra que tots els ordenaments han demostrat capacitat d'adaptació davant d'innovacions tecnològiques disruptives, com van ser en el seu moment:
+   - Els programes d'ordinador (Directiva 91/250/CEE)
+   - Les bases de dades (Directiva 96/9/CE)
+   - Les mesures tecnològiques de protecció (Directiva 2001/29/CE)
 
-Aquesta proposta representa un equilibri entre l'harmonització necessària per al mercat únic digital i el respecte a les traditions jurídiques nacionals, proporcionant un marc flexible però coherent per al desenvolupament de la IA creativa a Europa. 
+4. **Viabilitat d'un règim sui generis harmonitzat**: L'experiència amb el dret sui generis sobre bases de dades demostra la viabilitat d'un enfocament similar per a les obres generades per IA, tot i que amb les lliçons apreses d'aquella experiència, particularment:
+   - Necessitat de definicions més precises
+   - Equilibri més adequat entre protecció i accessibilitat
+   - Mecanismes d'avaluació i revisió més robustos
+
+### 6.2. Recomanacions per a l'harmonització efectiva
+
+A partir de les conclusions anteriors, es formulen les següents recomanacions estratègiques:
+
+#### 6.2.1. A nivell substantiu
+
+1. **Definició clara i tecnològicament neutra**: Establir una definició d'obra generada per IA que sigui suficientment precisa per proporcionar seguretat jurídica, però també tecnològicament neutra per adaptar-se a l'evolució dels sistemes d'IA. Aquesta definició hauria de:
+   - Diferenciar clarament entre obres assistides per IA (amb intervenció creativa humana substantiva) i obres generades autònomament per IA
+   - Establir criteris objectius per determinar quan es considera que el resultat és fruit de la generació autònoma
+   - Preveure mecanismes d'actualització interpretativa per adaptar-se a l'evolució tecnològica
+
+2. **Protecció sui generis proporcional**:
+   - Durada limitada (10-25 anys), amb possible diferenciació per sectors
+   - Catàleg de drets exclusius adaptat a les especificitats de les obres d'IA, excloent aquells drets vinculats a la personalitat de l'autor
+   - Limitacions i excepcions obligatòries que garanteixin l'equilibri entre protecció i accés, especialment per a finalitats d'investigació i educació
+
+3. **Criteris objectius de titularitat**:
+   - Adopció d'un enfocament basat en la inversió substantiva i la responsabilitat editorial
+   - Criteri subsidiari per resoldre conflictes entre múltiples agents implicats
+   - Possibilitat de cotitularitat amb criteris clars d'atribució percentual
+
+4. **Règim obligatori de transparència**:
+   - Requisit de divulgació de l'ús d'IA com a condició per a la protecció
+   - Estàndards mínims d'informació sobre el sistema utilitzat i les entitats responsables
+   - Registre públic accessible de les obres protegides sota el nou règim
+
+#### 6.2.2. A nivell d'implementació normativa
+
+1. **Directiva d'harmonització amb termini adequat**:
+   - Adopció d'una directiva específica amb un termini de transposició de 24-36 mesos
+   - Establiment de criteris comuns obligatoris combinats amb cert marge de flexibilitat nacional
+   - Obligació d'avaluació periòdica dels seus efectes i possible revisió després d'un període inicial (5-7 anys)
+
+2. **Modificació complementària del marc existent**:
+   - Clarificació a l'article 2 de la Directiva 2001/29/CE sobre l'exclusió de les obres generades autònomament per IA del concepte tradicional d'obra protegida
+   - Revisió de les disposicions de la Directiva 96/9/CE per garantir coherència entre ambdós règims sui generis
+   - Coordinació amb el marc normatiu emergent sobre IA, en particular el Reglament d'IA
+
+3. **Criteris d'articulació amb drets preexistents**:
+   - Regles clares sobre l'ús d'obres protegides per dret d'autor en l'entrenament de sistemes d'IA
+   - Mecanismes de resolució de conflictes entre titulars de drets preexistents i titulars dels nous drets sui generis
+   - Disposicions específiques sobre transformacions i obres derivades
+
+#### 6.2.3. A nivell institucional i operatiu
+
+1. **Creació d'estructures de coordinació**:
+   - Establiment d'un comitè d'experts a nivell europeu per harmonitzar la interpretació
+   - Xarxa de cooperació entreauthorities nacionals competents
+   - Mecanismes de consulta periòdica amb stakeholders clau
+
+2. **Desenvolupament d'estàndards tècnics**:
+   - Promoció d'estàndards voluntaris de metadades per a obres generades per IA
+   - Desenvolupament de tecnologies de marcatge i seguiment (watermarking)
+   - Millora dels sistemes de detecció d'obres generades per IA
+
+3. **Mesures d'acompanyament no normatives**:
+   - Programes de formació per al sector judicial i administratiu
+   - Campanyes de conscienciació dirigides als creadors i usuaris d'IA
+   - Suport a la investigació sobre impactes socials, culturals i econòmics del nou règim
+
+## 7. Calendari i full de ruta per a la implementació
+
+La implementació eficaç del marc jurídic proposat requereix una planificació detallada i un enfocament gradual que permeti l'adaptació progressiva dels diferents actors implicats. Es presenta a continuació un calendari i full de ruta estructurat en diverses fases i àmbits d'actuació.
+
+### 7.1. Fase preparatòria (Anys 1-2)
+
+#### 7.1.1. Accions legislatives a nivell europeu
+
+1. **Estudi d'impacte complet** (Mesos 1-6):
+   - Avaluació detallada de l'impacte jurídic, econòmic i social de la proposta
+   - Consulta pública ampliada a tots els sectors afectats
+   - Anàlisi cost-benefici i avaluació de proporcionalitat
+
+2. **Elaboració i negociació de la proposta legislativa** (Mesos 7-18):
+   - Redacció de la proposta de directiva per part de la Comissió Europea
+   - Procés de negociació al Consell i al Parlament Europeu
+   - Treball en comissions especialitzades i esmenes
+
+3. **Adopció de la directiva** (Mesos 19-24):
+   - Votació final al Parlament Europeu
+   - Aprovació pel Consell
+   - Publicació al Diari Oficial de la Unió Europea
+
+#### 7.1.2. Accions complementàries no legislatives
+
+1. **Creació de grups d'experts preparatoris** (Mesos 1-12):
+   - Grup d'experts jurídics per preparar orientacions interpretatives
+   - Grup d'experts tècnics per desenvolupar estàndards i protocols
+   - Fòrum de stakeholders per canalitzar aportacions sectorials
+
+2. **Estudis sectorials específics** (Mesos 6-18):
+   - Anàlisi de l'impacte en sectors clau (audiovisual, editorial, musical, arts visuals)
+   - Identificació de necessitats específiques per territori
+   - Proposta de mesures d'adaptació sectorial
+
+3. **Desenvolupament de materials preparatoris** (Mesos 12-24):
+   - Elaboració de guies i manuals d'implementació
+   - Desenvolupament de programes formatius
+   - Crear materials de divulgació i conscienciació
+
+### 7.2. Fase de transposició i adaptació (Anys 3-5)
+
+#### 7.2.1. Transposició nacional
+
+1. **Procés legislatiu a nivell nacional** (Mesos 25-42):
+   - Elaboració de propostes de llei de transposició
+   - Tramitació parlamentària en cada estat membre
+   - Adopció de les lleis nacionals de transposició
+
+2. **Coordinació europea durant la transposició** (Mesos 25-42):
+   - Reunions periòdiques del comitè d'experts europeu per garantir coherència
+   - Assistència tècnica de la Comissió als estats membres amb més desafiaments
+   - Creació d'una base de dades de millors pràctiques de transposició
+
+3. **Desenvolupament de normativa de rang inferior** (Mesos 43-54):
+   - Reglaments i ordres ministerials de desenvolupament
+   - Protocols administratius i registrals
+   - Directrius interpretatives de les autoritats competents
+
+#### 7.2.2. Adaptació institucional
+
+1. **Designació o creació d'autoritats competents** (Mesos 25-36):
+   - Identificació dels organismes responsables a nivell nacional
+   - Dotació de recursos humans i materials
+   - Establiment de protocols de funcionament
+
+2. **Adaptació del sistema registral** (Mesos 37-54):
+   - Creació o adaptació dels registres de propietat intel·lectual
+   - Desenvolupament de sistemes informàtics específics
+   - Interconnexió dels registres nacionals
+
+3. **Formació d'agents especialitzats** (Mesos 43-60):
+   - Programes de formació per a jutges i tribunals
+   - Capacitació d'agents de propietat industrial i intel·lectual
+   - Formació a funcionaris d'organismes reguladors
+
+#### 7.2.3. Transició del sector privat
+
+1. **Adaptació dels actors econòmics** (Mesos 25-60):
+   - Assessorament a desenvolupadors i usuaris de sistemes d'IA
+   - Adaptació de les entitats de gestió col·lectiva
+   - Ajust dels models de negoci i contractuals
+
+2. **Promoció de codis de conducta sectorials** (Mesos 37-60):
+   - Desenvolupament de codis voluntaris d'ús responsable
+   - Implementació de sistemes d'autodisciplina sectorial
+   - Creació de segells de qualitat i conformitat
+
+### 7.3. Fase d'implementació plena i avaluació (Anys 6-10)
+
+1. **Entrada en vigor completa** (Mes 61):
+   - Aplicació efectiva a tots els estats membres
+   - Activació dels mecanismes transfronterers
+   - Operativitat plena dels registres i sistemes administratius
+
+2. **Monitorització continua** (Mesos 61-120):
+   - Seguiment dels indicadors clau d'implementació
+   - Identificació precoç de dificultats i obstacles
+   - Ajustos interpretatius i operatius
+
+3. **Avaluació intermèdia** (Mesos 84-90):
+   - Anàlisi complet de l'impacte després de dos anys d'implementació plena
+   - Consulta a tots els actors implicats
+   - Propostes d'ajust si resulten necessàries
+
+4. **Avaluació completa** (Mesos 114-120):
+   - Estudi exhaustiu de l'impacte jurídic, econòmic i social
+   - Anàlisi comparatiu amb altres models internacionals
+   - Recomanacions per a possible revisió legislativa
+
+## 8. Mecanismes de seguiment i avaluació
+
+Per garantir l'efectivitat i adaptabilitat del marc jurídic proposat, resulta essencial establir mecanismes robustos de seguiment i avaluació que permetin identificar desviacions, obstacles i oportunitats de millora. Aquest apartat desenvolupa una proposta integral de monitorització i avaluació.
+
+### 8.1. Indicadors clau de seguiment
+
+#### 8.1.1. Indicadors jurídics
+
+1. **Indicadors de seguretat jurídica**:
+   - Nombre de litigis relacionats amb obres generades per IA
+   - Coherència i convergència de les resolucions judicials entre estats membres
+   - Conflictes d'interpretació identificats entreauthorities nacionals
+   - Taxa de resolució extrajudicial de controvèrsies
+
+2. **Indicadors d'harmonització efectiva**:
+   - Grau de divergència entre les legislacions nacionals de transposició
+   - Diferències significatives en la interpretació administrativa i judicial
+   - Obstacles persistents per a l'activitat transfronterera
+   - Eficàcia dels mecanismes de coordinació europea
+
+3. **Indicadors d'adequació normativa**:
+   - Identificació de llacunes i zones grises normatives
+   - Capacitat del marc per adaptar-se a noves formes d'IA generativa
+   - Interacció amb altres àmbits normatius (protecció de dades, competència, etc.)
+   - Queixes formals sobre disfuncions del sistema
+
+#### 8.1.2. Indicadors econòmics i d'innovació
+
+1. **Indicadors d'impacte en el mercat**:
+   - Volum de registres d'obres generades per IA
+   - Valor econòmic estimat de les obres protegides
+   - Transaccions comercials i llicències al voltant d'obres d'IA
+   - Impacte en sectors creatius tradicionals
+
+2. **Indicadors d'innovació i competitivitat**:
+   - Inversió en R+D en sistemes d'IA creativa
+   - Patents relacionats amb tecnologies d'IA generativa
+   - Creació i creixement d'empreses especialitzades
+   - Posicionament competitiu de la UE a nivell internacional
+
+3. **Indicadors d'accés i utilització**:
+   - Accessibilitat d'obres generades per IA per a finalitats d'investigació
+   - Reutilització d'obres en nous desenvolupaments
+   - Efectes en la disponibilitat i preus per als consumidors
+   - Impacte en la diversitat cultural i lingüística
+
+#### 8.1.3. Indicadors d'impacte social i cultural
+
+1. **Indicadors de transparència**:
+   - Compliment efectiu de les obligacions de divulgació
+   - Capacitat dels consumidors per identificar obres d'IA
+   - Qualitat i accessibilitat de la informació proporcionada
+   - Percepció pública sobre la transparència del sistema
+
+2. **Indicadors d'impacte cultural**:
+   - Efectes en la diversitat de l'oferta cultural
+   - Impacte en la valoració social de la creativitat humana
+   - Evolució de les pràctiques i preferències culturals
+   - Efectes en comunitats creatives minoritàries o vulnerables
+
+3. **Indicadors de percepció i confiança**:
+   - Confiança dels creadors humans en el sistema
+   - Percepció pública sobre l'equilibri del marc regulatori
+   - Acceptació social de les obres generades per IA
+   - Consciència i comprensió pública del marc jurídic
+
+### 8.2. Mecanismes institucionals de seguiment
+
+#### 8.2.1. Estructures de seguiment a nivell europeu
+
+1. **Observatori Europeu d'Obres Generades per IA**:
+   - Creació d'un organisme especialitzat dependent de la Comissió Europea
+   - Composició multidisciplinària (juristes, economistes, tecnòlegs, sociòlegs)
+   - Funcions d'observació, anàlisi i proposta
+   - Publicació d'informes periòdics de seguiment
+
+2. **Comitè de Coordinació entre Autoritats Nacionals**:
+   - Participació de representants de lesauthorities competents de cada estat membre
+   - Reunions trimestrals per compartir experiències i harmonitzar criteris
+   - Desenvolupament de directrius interpretatives comunes
+   - Mecanisme d'alerta precoç per a problemes emergents
+
+3. **Fòrum Permanent d'Stakeholders**:
+   - Participació equilibrada de tots els sectors implicats
+   - Mecanisme formal de consulta i aportació
+   - Grups de treball temàtics per àmbits específics
+   - Canal estructurat per a propostes de millora
+
+#### 8.2.2. Processos d'avaluació periòdica
+
+1. **Avaluacions anuals focalitzades**:
+   - Anàlisi anual d'aspectes específics del marc
+   - Rotació temàtica per cobrir tots els àmbits rellevants
+   - Metodologia consistent i comparable
+   - Publicació i difusió dels resultats
+
+2. **Avaluacions integrals cada tres anys**:
+   - Anàlisi exhaustiva de tots els aspectes del marc
+   - Contrast amb els objectius inicials
+   - Identificació de necessitats d'ajust o reforma
+   - Consulta pública estructurada
+
+3. **Mecanisme de revisió legislativa als deu anys**:
+   - Avaluació completa de l'impacte de la directiva
+   - Anàlisi de l'evolució tecnològica i necessitats d'adaptació
+   - Benchmarking internacional
+   - Proposta formal de manteniment, reforma o substitució
+
+### 8.3. Eines i metodologies de seguiment
+
+#### 8.3.1. Recol·lecció i anàlisi de dades
+
+1. **Sistema estadístic harmonitzat**:
+   - Definició d'indicadors i mètriques comuns
+   - Protocols uniformes de recollida de dades
+   - Plataforma centralitzada d'agregació i anàlisi
+   - Garanties de qualitat i fiabilitat metodològica
+
+2. **Enquestes periòdiques a agents clau**:
+   - Disseny de qüestionaris estandarditzats per a diferents grups d'interès
+   - Implementació periòdica (anual o biennal) per detectar tendències
+   - Combinació de mètodes quantitatius i qualitatius
+   - Anàlisi comparativa entre sectors i països
+
+3. **Estudis de cas aprofundits**:
+   - Selecció d'exemples representatius o significatius
+   - Anàlisi detallada de la seva evolució
+   - Identificació de factors d'èxit i obstacles
+   - Extracció de lliçons aplicables
+
+#### 8.3.2. Transparència i participació pública
+
+1. **Portal de transparència dedicat**:
+   - Accés públic a dades i informes de seguiment
+   - Actualització continua d'indicadors clau
+   - Visualitzacions interactives i accessibles
+   - Disponibilitat de dades en format obert
+
+2. **Mecanismes de feedback estructurat**:
+   - Canal permanent per a aportacions d'usuaris i stakeholders
+   - Sistema de categorització i anàlisi de les aportacions
+   - Processos de resposta i retroalimentació
+   - Integració amb els processos d'avaluació formal
+
+3. **Diàleg regular amb la comunitat científica**:
+   - Col·laboració amb institucions acadèmiques per a estudis independents
+   - Seminaris i conferències periòdiques sobre l'evolució del marc
+   - Beques i projectes d'investigació sobre aspectes específics
+   - Publicacions científiques sobre l'impacte del marc regulatori
+
+### 8.4. Estratègies d'adaptació i millora contínua
+
+1. **Mecanismes d'ajust interpretatiu**:
+   - Directrius interpretatives actualitzades regularment
+   - Criteris administratius adaptables a noves circumstàncies
+   - Orientacions no vinculants per aauthorities nacionals
+   - Recomanacions de millors pràctiques
+
+2. **Procediments d'adaptació normativa**:
+   - Identificació precoç de necessitats d'ajust normatiu
+   - Avaluació d'impacte de possibles modificacions
+   - Procés àgil per a reformes de menor entitat
+   - Planificació anticipada de possibles reformes substancials
+
+3. **Benchmarking internacional continu**:
+   - Seguiment de desenvolupaments normatius en altres jurisdiccions
+   - Anàlisi comparativa amb models alternatius
+   - Identificació de millors pràctiques internacionals adaptables
+   - Participació activa en fòrums internacionals d'harmonització
+
+Aquests mecanismes de seguiment i avaluació garantirien que el marc jurídic proposat pugui evolucionar adequadament davant els ràpids canvis tecnològics i socials, mantenint la seva efectivitat i legitimitat a llarg termini. La combinació d'indicadors objectius, estructures institucionals adequades i processos participatius permetria un aprenentatge continu que beneficiaria a tots els actors implicats i a la societat en el seu conjunt. 
