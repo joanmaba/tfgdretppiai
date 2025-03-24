@@ -14,6 +14,8 @@ Aquest capítol constitueix el nucli central del TFG, on es desenvolupa la propo
 
 Aquesta proposta neix de la constatació d'un buit legal: les obres generades autònomament per IA no són protegibles mitjançant el dret d'autor tradicional perquè no són fruit de la creativitat humana, però això genera incertesa jurídica i pot limitar el desenvolupament i l'ús d'aquestes tecnologies.
 
+L'informe "Trends and Developments in Artificial Intelligence - Challenges to the Intellectual Property Rights Framework" (Comissió Europea, 2020) confirma aquesta anàlisi en concloure que, si bé el marc actual de drets d'autor i patents europeu és suficientment flexible per afrontar els desafiaments immediats de l'IA, existeixen àrees específiques on podrien ser necessàries reformes legals futures si així ho justifica l'evidència empírica. L'informe destaca particularment que les produccions d'IA sense participació humana creativa queden fora de l'àmbit de protecció del dret d'autor, creant un buit que podria ser cobert per drets afins o règims sui generis, alineant-se així amb l'enfocament proposat en aquest TFG.
+
 En comptes d'intentar forçar aquestes obres en el marc existent del dret d'autor —cosa que implicaria redefinir nocions fonamentals com "autoria" o "originalitat"—, es proposa crear una categoria nova i específica que:
 
 1. Reconegui la realitat tecnològica actual, on màquines poden generar continguts sense intervenció creativa humana directa.

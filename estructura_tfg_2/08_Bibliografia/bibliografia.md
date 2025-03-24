@@ -136,6 +136,8 @@
 
 ## Documents institucionals
 
+- Comissió Europea (2020). *Trends and Developments in Artificial Intelligence - Challenges to the Intellectual Property Rights Framework*. Final report. Disponible a: [EUR-Lex](https://op.europa.eu/en/publication-detail/-/publication/1867592e-f2e8-11ea-991b-01aa75ed71a1/language-en/format-PDF/source-search).
+
 - Comissió Europea (2022). *Study on Copyright and New Technologies: Copyright Data Management and Artificial Intelligence*. Publication Office of the European Union. Disponible a: [EU Publications Office](https://op.europa.eu/en/publication-detail/-/publication/e2a6eba2-eac4-11ec-a534-01aa75ed71a1/language-en).
 
 - Comissió Europea (2023). *Impact Assessment for the Proposal for a Regulation on Artificial Intelligence*. SWD(2023) 137 final. Disponible a: [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023SC0137).

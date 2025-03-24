@@ -163,6 +163,7 @@ Japó ha desenvolupat un enfocament flexible basat en adaptacions gradualment:
 | Tendència global | Posició de la proposta | Avantatge competitiu |
 |------------------|------------------------|----------------------|
 | **Harmonització internacional creixent** | Compatible amb harmonització | Potencial model per a solucions globals |
+| **Conclusions de l'informe "Trends and Developments in AI" (CE, 2020)** | Alineada amb conclusions principals | Coherència amb l'anàlisi oficial de la CE que indica que els marcs actuals són suficientment flexibles però identifica àrees per a possibles reformes futures |
 | **Major regulació d'IA** | Alineada (anticipant-se) | Evita adaptacions posteriors |
 | **Demanda de transparència** | Pionera en requisits | Genera confiança i acceptació social |
 | **Equilibri protecció-innovació** | Centrada en aquest equilibri | Facilita adopció sense litigiositat excessiva |

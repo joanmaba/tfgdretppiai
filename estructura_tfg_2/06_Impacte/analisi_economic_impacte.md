@@ -79,7 +79,7 @@ Per maximitzar l'impacte positiu i mitigar l'impacte negatiu en l'ocupació, ser
 
 * **Inversió en formació**: 150-200 M€ a nivell europeu per a programes de requalificació
 * **Adaptació curricular**: Creació de 50-75 programes especialitzats en universitats i centres de formació professional
-* **Certificacions específiques**: Desenvolupament de 10-15 noves certificacions professionals específiques per al sector
+* **Certificacions específiques**: desenvolupament de 10-15 noves certificacions professionals específiques per al sector
 
 ## 5.1.3. Impacte en la innovació
 
@@ -90,6 +90,8 @@ La nova categoria jurídica actuaria com a catalitzador de la innovació per div
 * **Reducció de barreres normatives**: Disminució estimada del 30% en el temps de comercialització de nous productes
 * **Claredat en la cadena de valor**: Definició precisa dels drets i obligacions de cada participant
 * **Efecte en el cicle d'innovació**: Reducció estimada de 24 a 18 mesos en el cicle mitjà de desenvolupament de noves aplicacions creatives d'IA
+
+Aquestes conclusions són coherents amb l'anàlisi presentada en l'informe "Trends and Developments in Artificial Intelligence - Challenges to the Intellectual Property Rights Framework" (Comissió Europea, 2020), que destaca la importància de garantir un marc jurídic clar per a les produccions d'IA. L'informe suggereix que, si bé el marc legal actual és suficient a curt termini, podrien ser necessàries adaptacions futures per abordar àrees específiques d'incertesa legal. La nostra proposta aborda precisament aquestes àrees d'incertesa, oferint un marc de protecció equilibrat que incentiva la innovació sense obstaculitzar l'accés i l'ús de les produccions d'IA, en línia amb les recomanacions de l'informe.
 
 ### b) Impacte específic en tipus d'innovació
 

@@ -4,6 +4,8 @@ Aquest capítol, que constitueix l'eix central del nostre treball, ofereix una a
 
 L'anàlisi es divideix en tres parts fonamentals. En primer lloc, s'estudien els conceptes clau del dret d'autor europeu que entren en tensió amb la realitat de les obres generades per IA. En segon lloc, s'examina la jurisprudència recent més rellevant, especialment la sentència del Tribunal Municipal de Praga de maig de 2023, que representa la primera resolució judicial europea específica sobre aquesta matèria. Finalment, s'analitzen els diferents models de protecció que s'han proposat fins ara, avaluant els seus avantatges i inconvenients.
 
+L'anàlisi pren en consideració, entre d'altres fonts essencials, l'informe "Trends and Developments in Artificial Intelligence - Challenges to the Intellectual Property Rights Framework" (Comissió Europea, 2020), que examina exhaustivament els desafiaments que la IA planteja per al marc europeu de propietat intel·lectual, concloent que l'estat actual de la tecnologia no requereix canvis substantius en les lleis de drets d'autor i patents, però identificant àrees potencials per a futures reformes legals si es justifiquen amb evidència empírica.
+
 ## Components de l'anàlisi
 
 ### 3.1. [Conceptes clau en tensió](3.1_Conceptes_Clau/conceptes_clau.md)
